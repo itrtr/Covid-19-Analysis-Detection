@@ -1,0 +1,337 @@
+region_type,country,percent_yoy_change,date
+countries,Global,-1,2020-02-18
+countries,Global,3,2020-02-19
+countries,Global,-1,2020-02-20
+countries,Global,-2,2020-02-21
+countries,Global,1,2020-02-22
+countries,Global,4,2020-02-23
+countries,Global,1,2020-02-24
+countries,Global,1,2020-02-25
+countries,Global,-2,2020-02-26
+countries,Global,-3,2020-02-27
+countries,Global,-1,2020-02-28
+countries,Global,1,2020-02-29
+countries,Global,0,2020-03-01
+countries,Global,-8,2020-03-02
+countries,Global,-9,2020-03-03
+countries,Global,-6,2020-03-04
+countries,Global,-7,2020-03-05
+countries,Global,-7,2020-03-06
+countries,Global,-4,2020-03-07
+countries,Global,-3,2020-03-08
+countries,Global,-14,2020-03-09
+countries,Global,-18,2020-03-10
+countries,Global,-19,2020-03-11
+countries,Global,-28,2020-03-12
+countries,Global,-36,2020-03-13
+countries,Global,-40,2020-03-14
+countries,Global,-47,2020-03-15
+countries,Global,-56,2020-03-16
+countries,Global,-83,2020-03-17
+countries,Global,-89,2020-03-18
+countries,Global,-96,2020-03-19
+countries,Global,-98,2020-03-20
+countries,Global,-99,2020-03-21
+countries,Global,-99,2020-03-22
+countries,Global,-100,2020-03-23
+countries,Global,-100,2020-03-24
+countries,Global,-100,2020-03-25
+countries,Global,-100,2020-03-26
+countries,Global,-100,2020-03-27
+countries,Global,-100,2020-03-28
+countries,Global,-100,2020-03-29
+countries,Global,-100,2020-03-30
+countries,Australia,-3,2020-02-18
+countries,Australia,-6,2020-02-19
+countries,Australia,-3,2020-02-20
+countries,Australia,-1,2020-02-21
+countries,Australia,0,2020-02-22
+countries,Australia,0,2020-02-23
+countries,Australia,0,2020-02-24
+countries,Australia,-2,2020-02-25
+countries,Australia,-2,2020-02-26
+countries,Australia,-7,2020-02-27
+countries,Australia,0,2020-02-28
+countries,Australia,-1,2020-02-29
+countries,Australia,4,2020-03-01
+countries,Australia,-12,2020-03-02
+countries,Australia,-6,2020-03-03
+countries,Australia,-12,2020-03-04
+countries,Australia,-8,2020-03-05
+countries,Australia,-6,2020-03-06
+countries,Australia,-3,2020-03-07
+countries,Australia,-4,2020-03-08
+countries,Australia,-10,2020-03-09
+countries,Australia,-4,2020-03-10
+countries,Australia,-10,2020-03-11
+countries,Australia,-12,2020-03-12
+countries,Australia,-8,2020-03-13
+countries,Australia,-11,2020-03-14
+countries,Australia,-12,2020-03-15
+countries,Australia,-30,2020-03-16
+countries,Australia,-43,2020-03-17
+countries,Australia,-50,2020-03-18
+countries,Australia,-53,2020-03-19
+countries,Australia,-52,2020-03-20
+countries,Australia,-54,2020-03-21
+countries,Australia,-66,2020-03-22
+countries,Australia,-100,2020-03-23
+countries,Australia,-100,2020-03-24
+countries,Australia,-100,2020-03-25
+countries,Australia,-100,2020-03-26
+countries,Australia,-100,2020-03-27
+countries,Australia,-100,2020-03-28
+countries,Australia,-100,2020-03-29
+countries,Australia,-100,2020-03-30
+countries,Canada,-5,2020-02-18
+countries,Canada,0,2020-02-19
+countries,Canada,-3,2020-02-20
+countries,Canada,-2,2020-02-21
+countries,Canada,-1,2020-02-22
+countries,Canada,8,2020-02-23
+countries,Canada,-2,2020-02-24
+countries,Canada,-3,2020-02-25
+countries,Canada,1,2020-02-26
+countries,Canada,-12,2020-02-27
+countries,Canada,-8,2020-02-28
+countries,Canada,-4,2020-02-29
+countries,Canada,-7,2020-03-01
+countries,Canada,-12,2020-03-02
+countries,Canada,-7,2020-03-03
+countries,Canada,-2,2020-03-04
+countries,Canada,-4,2020-03-05
+countries,Canada,-8,2020-03-06
+countries,Canada,-9,2020-03-07
+countries,Canada,-1,2020-03-08
+countries,Canada,-13,2020-03-09
+countries,Canada,-18,2020-03-10
+countries,Canada,-19,2020-03-11
+countries,Canada,-28,2020-03-12
+countries,Canada,-40,2020-03-13
+countries,Canada,-41,2020-03-14
+countries,Canada,-47,2020-03-15
+countries,Canada,-60,2020-03-16
+countries,Canada,-94,2020-03-17
+countries,Canada,-97,2020-03-18
+countries,Canada,-99,2020-03-19
+countries,Canada,-100,2020-03-20
+countries,Canada,-100,2020-03-21
+countries,Canada,-100,2020-03-22
+countries,Canada,-100,2020-03-23
+countries,Canada,-100,2020-03-24
+countries,Canada,-100,2020-03-25
+countries,Canada,-100,2020-03-26
+countries,Canada,-100,2020-03-27
+countries,Canada,-100,2020-03-28
+countries,Canada,-100,2020-03-29
+countries,Canada,-100,2020-03-30
+countries,Germany,11,2020-02-18
+countries,Germany,4,2020-02-19
+countries,Germany,3,2020-02-20
+countries,Germany,5,2020-02-21
+countries,Germany,1,2020-02-22
+countries,Germany,2,2020-02-23
+countries,Germany,11,2020-02-24
+countries,Germany,4,2020-02-25
+countries,Germany,5,2020-02-26
+countries,Germany,5,2020-02-27
+countries,Germany,11,2020-02-28
+countries,Germany,7,2020-02-29
+countries,Germany,9,2020-03-01
+countries,Germany,-8,2020-03-02
+countries,Germany,0,2020-03-03
+countries,Germany,-4,2020-03-04
+countries,Germany,-6,2020-03-05
+countries,Germany,-7,2020-03-06
+countries,Germany,4,2020-03-07
+countries,Germany,11,2020-03-08
+countries,Germany,-10,2020-03-09
+countries,Germany,-16,2020-03-10
+countries,Germany,-11,2020-03-11
+countries,Germany,-17,2020-03-12
+countries,Germany,-28,2020-03-13
+countries,Germany,-38,2020-03-14
+countries,Germany,-46,2020-03-15
+countries,Germany,-63,2020-03-16
+countries,Germany,-90,2020-03-17
+countries,Germany,-95,2020-03-18
+countries,Germany,-98,2020-03-19
+countries,Germany,-99,2020-03-20
+countries,Germany,-100,2020-03-21
+countries,Germany,-100,2020-03-22
+countries,Germany,-100,2020-03-23
+countries,Germany,-100,2020-03-24
+countries,Germany,-100,2020-03-25
+countries,Germany,-100,2020-03-26
+countries,Germany,-100,2020-03-27
+countries,Germany,-100,2020-03-28
+countries,Germany,-100,2020-03-29
+countries,Germany,-100,2020-03-30
+countries,Ireland,2,2020-02-18
+countries,Ireland,0,2020-02-19
+countries,Ireland,4,2020-02-20
+countries,Ireland,1,2020-02-21
+countries,Ireland,-3,2020-02-22
+countries,Ireland,4,2020-02-23
+countries,Ireland,-9,2020-02-24
+countries,Ireland,-8,2020-02-25
+countries,Ireland,-10,2020-02-26
+countries,Ireland,-2,2020-02-27
+countries,Ireland,-10,2020-02-28
+countries,Ireland,-13,2020-02-29
+countries,Ireland,10,2020-03-01
+countries,Ireland,-6,2020-03-02
+countries,Ireland,-7,2020-03-03
+countries,Ireland,-1,2020-03-04
+countries,Ireland,-15,2020-03-05
+countries,Ireland,-13,2020-03-06
+countries,Ireland,-5,2020-03-07
+countries,Ireland,4,2020-03-08
+countries,Ireland,-10,2020-03-09
+countries,Ireland,-28,2020-03-10
+countries,Ireland,-27,2020-03-11
+countries,Ireland,-46,2020-03-12
+countries,Ireland,-51,2020-03-13
+countries,Ireland,-52,2020-03-14
+countries,Ireland,-75,2020-03-15
+countries,Ireland,-70,2020-03-16
+countries,Ireland,-86,2020-03-17
+countries,Ireland,-97,2020-03-18
+countries,Ireland,-99,2020-03-19
+countries,Ireland,-99,2020-03-20
+countries,Ireland,-99,2020-03-21
+countries,Ireland,-98,2020-03-22
+countries,Ireland,-100,2020-03-23
+countries,Ireland,-100,2020-03-24
+countries,Ireland,-100,2020-03-25
+countries,Ireland,-100,2020-03-26
+countries,Ireland,-100,2020-03-27
+countries,Ireland,-100,2020-03-28
+countries,Ireland,-100,2020-03-29
+countries,Ireland,-100,2020-03-30
+countries,Mexico,-5,2020-02-18
+countries,Mexico,-5,2020-02-19
+countries,Mexico,-4,2020-02-20
+countries,Mexico,-3,2020-02-21
+countries,Mexico,-1,2020-02-22
+countries,Mexico,2,2020-02-23
+countries,Mexico,-1,2020-02-24
+countries,Mexico,-3,2020-02-25
+countries,Mexico,-9,2020-02-26
+countries,Mexico,-7,2020-02-27
+countries,Mexico,-10,2020-02-28
+countries,Mexico,-5,2020-02-29
+countries,Mexico,-7,2020-03-01
+countries,Mexico,-7,2020-03-02
+countries,Mexico,-10,2020-03-03
+countries,Mexico,-6,2020-03-04
+countries,Mexico,-6,2020-03-05
+countries,Mexico,-8,2020-03-06
+countries,Mexico,-2,2020-03-07
+countries,Mexico,-5,2020-03-08
+countries,Mexico,-19,2020-03-09
+countries,Mexico,-16,2020-03-10
+countries,Mexico,-15,2020-03-11
+countries,Mexico,-16,2020-03-12
+countries,Mexico,-16,2020-03-13
+countries,Mexico,-21,2020-03-14
+countries,Mexico,-35,2020-03-15
+countries,Mexico,-48,2020-03-16
+countries,Mexico,-62,2020-03-17
+countries,Mexico,-73,2020-03-18
+countries,Mexico,-78,2020-03-19
+countries,Mexico,-85,2020-03-20
+countries,Mexico,-91,2020-03-21
+countries,Mexico,-95,2020-03-22
+countries,Mexico,-95,2020-03-23
+countries,Mexico,-96,2020-03-24
+countries,Mexico,-97,2020-03-25
+countries,Mexico,-97,2020-03-26
+countries,Mexico,-97,2020-03-27
+countries,Mexico,-97,2020-03-28
+countries,Mexico,-99,2020-03-29
+countries,Mexico,-98,2020-03-30
+countries,United Kingdom,1,2020-02-18
+countries,United Kingdom,-1,2020-02-19
+countries,United Kingdom,-2,2020-02-20
+countries,United Kingdom,0,2020-02-21
+countries,United Kingdom,-1,2020-02-22
+countries,United Kingdom,-4,2020-02-23
+countries,United Kingdom,-6,2020-02-24
+countries,United Kingdom,-5,2020-02-25
+countries,United Kingdom,-5,2020-02-26
+countries,United Kingdom,-8,2020-02-27
+countries,United Kingdom,-2,2020-02-28
+countries,United Kingdom,-3,2020-02-29
+countries,United Kingdom,-2,2020-03-01
+countries,United Kingdom,-7,2020-03-02
+countries,United Kingdom,-11,2020-03-03
+countries,United Kingdom,-9,2020-03-04
+countries,United Kingdom,-12,2020-03-05
+countries,United Kingdom,-5,2020-03-06
+countries,United Kingdom,-3,2020-03-07
+countries,United Kingdom,1,2020-03-08
+countries,United Kingdom,-18,2020-03-09
+countries,United Kingdom,-17,2020-03-10
+countries,United Kingdom,-14,2020-03-11
+countries,United Kingdom,-24,2020-03-12
+countries,United Kingdom,-26,2020-03-13
+countries,United Kingdom,-20,2020-03-14
+countries,United Kingdom,-31,2020-03-15
+countries,United Kingdom,-52,2020-03-16
+countries,United Kingdom,-82,2020-03-17
+countries,United Kingdom,-88,2020-03-18
+countries,United Kingdom,-91,2020-03-19
+countries,United Kingdom,-94,2020-03-20
+countries,United Kingdom,-100,2020-03-21
+countries,United Kingdom,-100,2020-03-22
+countries,United Kingdom,-100,2020-03-23
+countries,United Kingdom,-100,2020-03-24
+countries,United Kingdom,-100,2020-03-25
+countries,United Kingdom,-100,2020-03-26
+countries,United Kingdom,-100,2020-03-27
+countries,United Kingdom,-100,2020-03-28
+countries,United Kingdom,-100,2020-03-29
+countries,United Kingdom,-100,2020-03-30
+countries,United States,0,2020-02-18
+countries,United States,4,2020-02-19
+countries,United States,0,2020-02-20
+countries,United States,-1,2020-02-21
+countries,United States,2,2020-02-22
+countries,United States,6,2020-02-23
+countries,United States,2,2020-02-24
+countries,United States,2,2020-02-25
+countries,United States,-1,2020-02-26
+countries,United States,-1,2020-02-27
+countries,United States,1,2020-02-28
+countries,United States,3,2020-02-29
+countries,United States,2,2020-03-01
+countries,United States,-7,2020-03-02
+countries,United States,-9,2020-03-03
+countries,United States,-5,2020-03-04
+countries,United States,-5,2020-03-05
+countries,United States,-6,2020-03-06
+countries,United States,-3,2020-03-07
+countries,United States,-2,2020-03-08
+countries,United States,-14,2020-03-09
+countries,United States,-18,2020-03-10
+countries,United States,-19,2020-03-11
+countries,United States,-28,2020-03-12
+countries,United States,-36,2020-03-13
+countries,United States,-42,2020-03-14
+countries,United States,-48,2020-03-15
+countries,United States,-56,2020-03-16
+countries,United States,-84,2020-03-17
+countries,United States,-91,2020-03-18
+countries,United States,-98,2020-03-19
+countries,United States,-99,2020-03-20
+countries,United States,-100,2020-03-21
+countries,United States,-100,2020-03-22
+countries,United States,-100,2020-03-23
+countries,United States,-100,2020-03-24
+countries,United States,-100,2020-03-25
+countries,United States,-100,2020-03-26
+countries,United States,-100,2020-03-27
+countries,United States,-100,2020-03-28
+countries,United States,-100,2020-03-29
+countries,United States,-100,2020-03-30

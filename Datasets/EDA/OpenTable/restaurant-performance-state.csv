@@ -1,0 +1,2059 @@
+region_type,state,country,percent_yoy_change,date
+states,Alabama,United States,-14,2020-02-18
+states,Alabama,United States,7,2020-02-19
+states,Alabama,United States,1,2020-02-20
+states,Alabama,United States,-2,2020-02-21
+states,Alabama,United States,8,2020-02-22
+states,Alabama,United States,2,2020-02-23
+states,Alabama,United States,1,2020-02-24
+states,Alabama,United States,0,2020-02-25
+states,Alabama,United States,-8,2020-02-26
+states,Alabama,United States,-3,2020-02-27
+states,Alabama,United States,-3,2020-02-28
+states,Alabama,United States,-11,2020-02-29
+states,Alabama,United States,2,2020-03-01
+states,Alabama,United States,-32,2020-03-02
+states,Alabama,United States,-29,2020-03-03
+states,Alabama,United States,-23,2020-03-04
+states,Alabama,United States,-15,2020-03-05
+states,Alabama,United States,-3,2020-03-06
+states,Alabama,United States,11,2020-03-07
+states,Alabama,United States,-10,2020-03-08
+states,Alabama,United States,-11,2020-03-09
+states,Alabama,United States,-26,2020-03-10
+states,Alabama,United States,-8,2020-03-11
+states,Alabama,United States,-2,2020-03-12
+states,Alabama,United States,-24,2020-03-13
+states,Alabama,United States,-28,2020-03-14
+states,Alabama,United States,-38,2020-03-15
+states,Alabama,United States,-57,2020-03-16
+states,Alabama,United States,-74,2020-03-17
+states,Alabama,United States,-78,2020-03-18
+states,Alabama,United States,-97,2020-03-19
+states,Alabama,United States,-100,2020-03-20
+states,Alabama,United States,-100,2020-03-21
+states,Alabama,United States,-100,2020-03-22
+states,Alabama,United States,-100,2020-03-23
+states,Alabama,United States,-100,2020-03-24
+states,Alabama,United States,-100,2020-03-25
+states,Alabama,United States,-100,2020-03-26
+states,Alabama,United States,-100,2020-03-27
+states,Alabama,United States,-100,2020-03-28
+states,Alabama,United States,-100,2020-03-29
+states,Alabama,United States,-100,2020-03-30
+states,Alberta,Canada,2,2020-02-18
+states,Alberta,Canada,10,2020-02-19
+states,Alberta,Canada,2,2020-02-20
+states,Alberta,Canada,1,2020-02-21
+states,Alberta,Canada,5,2020-02-22
+states,Alberta,Canada,0,2020-02-23
+states,Alberta,Canada,-1,2020-02-24
+states,Alberta,Canada,3,2020-02-25
+states,Alberta,Canada,-1,2020-02-26
+states,Alberta,Canada,-4,2020-02-27
+states,Alberta,Canada,3,2020-02-28
+states,Alberta,Canada,2,2020-02-29
+states,Alberta,Canada,-4,2020-03-01
+states,Alberta,Canada,-10,2020-03-02
+states,Alberta,Canada,-4,2020-03-03
+states,Alberta,Canada,-1,2020-03-04
+states,Alberta,Canada,-8,2020-03-05
+states,Alberta,Canada,1,2020-03-06
+states,Alberta,Canada,-16,2020-03-07
+states,Alberta,Canada,-7,2020-03-08
+states,Alberta,Canada,-13,2020-03-09
+states,Alberta,Canada,-10,2020-03-10
+states,Alberta,Canada,-8,2020-03-11
+states,Alberta,Canada,-23,2020-03-12
+states,Alberta,Canada,-43,2020-03-13
+states,Alberta,Canada,-44,2020-03-14
+states,Alberta,Canada,-49,2020-03-15
+states,Alberta,Canada,-65,2020-03-16
+states,Alberta,Canada,-89,2020-03-17
+states,Alberta,Canada,-96,2020-03-18
+states,Alberta,Canada,-98,2020-03-19
+states,Alberta,Canada,-99,2020-03-20
+states,Alberta,Canada,-100,2020-03-21
+states,Alberta,Canada,-100,2020-03-22
+states,Alberta,Canada,-100,2020-03-23
+states,Alberta,Canada,-100,2020-03-24
+states,Alberta,Canada,-100,2020-03-25
+states,Alberta,Canada,-100,2020-03-26
+states,Alberta,Canada,-100,2020-03-27
+states,Alberta,Canada,-100,2020-03-28
+states,Alberta,Canada,-100,2020-03-29
+states,Alberta,Canada,-100,2020-03-30
+states,Arizona,United States,0,2020-02-18
+states,Arizona,United States,1,2020-02-19
+states,Arizona,United States,8,2020-02-20
+states,Arizona,United States,4,2020-02-21
+states,Arizona,United States,-3,2020-02-22
+states,Arizona,United States,5,2020-02-23
+states,Arizona,United States,2,2020-02-24
+states,Arizona,United States,5,2020-02-25
+states,Arizona,United States,1,2020-02-26
+states,Arizona,United States,3,2020-02-27
+states,Arizona,United States,2,2020-02-28
+states,Arizona,United States,1,2020-02-29
+states,Arizona,United States,-2,2020-03-01
+states,Arizona,United States,-7,2020-03-02
+states,Arizona,United States,-10,2020-03-03
+states,Arizona,United States,0,2020-03-04
+states,Arizona,United States,-4,2020-03-05
+states,Arizona,United States,-3,2020-03-06
+states,Arizona,United States,-2,2020-03-07
+states,Arizona,United States,-3,2020-03-08
+states,Arizona,United States,-7,2020-03-09
+states,Arizona,United States,-14,2020-03-10
+states,Arizona,United States,-20,2020-03-11
+states,Arizona,United States,-18,2020-03-12
+states,Arizona,United States,-26,2020-03-13
+states,Arizona,United States,-24,2020-03-14
+states,Arizona,United States,-37,2020-03-15
+states,Arizona,United States,-54,2020-03-16
+states,Arizona,United States,-77,2020-03-17
+states,Arizona,United States,-93,2020-03-18
+states,Arizona,United States,-96,2020-03-19
+states,Arizona,United States,-98,2020-03-20
+states,Arizona,United States,-100,2020-03-21
+states,Arizona,United States,-100,2020-03-22
+states,Arizona,United States,-100,2020-03-23
+states,Arizona,United States,-100,2020-03-24
+states,Arizona,United States,-100,2020-03-25
+states,Arizona,United States,-100,2020-03-26
+states,Arizona,United States,-100,2020-03-27
+states,Arizona,United States,-100,2020-03-28
+states,Arizona,United States,-100,2020-03-29
+states,Arizona,United States,-100,2020-03-30
+states,Baja California Sur,Mexico,-6,2020-02-18
+states,Baja California Sur,Mexico,-2,2020-02-19
+states,Baja California Sur,Mexico,-2,2020-02-20
+states,Baja California Sur,Mexico,-9,2020-02-21
+states,Baja California Sur,Mexico,1,2020-02-22
+states,Baja California Sur,Mexico,1,2020-02-23
+states,Baja California Sur,Mexico,29,2020-02-24
+states,Baja California Sur,Mexico,6,2020-02-25
+states,Baja California Sur,Mexico,9,2020-02-26
+states,Baja California Sur,Mexico,10,2020-02-27
+states,Baja California Sur,Mexico,-18,2020-02-28
+states,Baja California Sur,Mexico,-13,2020-02-29
+states,Baja California Sur,Mexico,-15,2020-03-01
+states,Baja California Sur,Mexico,3,2020-03-02
+states,Baja California Sur,Mexico,-17,2020-03-03
+states,Baja California Sur,Mexico,0,2020-03-04
+states,Baja California Sur,Mexico,0,2020-03-05
+states,Baja California Sur,Mexico,-8,2020-03-06
+states,Baja California Sur,Mexico,-8,2020-03-07
+states,Baja California Sur,Mexico,-11,2020-03-08
+states,Baja California Sur,Mexico,-17,2020-03-09
+states,Baja California Sur,Mexico,-20,2020-03-10
+states,Baja California Sur,Mexico,-17,2020-03-11
+states,Baja California Sur,Mexico,-12,2020-03-12
+states,Baja California Sur,Mexico,-23,2020-03-13
+states,Baja California Sur,Mexico,-34,2020-03-14
+states,Baja California Sur,Mexico,-29,2020-03-15
+states,Baja California Sur,Mexico,-33,2020-03-16
+states,Baja California Sur,Mexico,-42,2020-03-17
+states,Baja California Sur,Mexico,-44,2020-03-18
+states,Baja California Sur,Mexico,-56,2020-03-19
+states,Baja California Sur,Mexico,-73,2020-03-20
+states,Baja California Sur,Mexico,-84,2020-03-21
+states,Baja California Sur,Mexico,-93,2020-03-22
+states,Baja California Sur,Mexico,-96,2020-03-23
+states,Baja California Sur,Mexico,-98,2020-03-24
+states,Baja California Sur,Mexico,-98,2020-03-25
+states,Baja California Sur,Mexico,-98,2020-03-26
+states,Baja California Sur,Mexico,-98,2020-03-27
+states,Baja California Sur,Mexico,-98,2020-03-28
+states,Baja California Sur,Mexico,-99,2020-03-29
+states,Baja California Sur,Mexico,-99,2020-03-30
+states,British Columbia,Canada,8,2020-02-18
+states,British Columbia,Canada,-3,2020-02-19
+states,British Columbia,Canada,1,2020-02-20
+states,British Columbia,Canada,6,2020-02-21
+states,British Columbia,Canada,3,2020-02-22
+states,British Columbia,Canada,-2,2020-02-23
+states,British Columbia,Canada,-3,2020-02-24
+states,British Columbia,Canada,-5,2020-02-25
+states,British Columbia,Canada,0,2020-02-26
+states,British Columbia,Canada,-4,2020-02-27
+states,British Columbia,Canada,-2,2020-02-28
+states,British Columbia,Canada,-2,2020-02-29
+states,British Columbia,Canada,-8,2020-03-01
+states,British Columbia,Canada,-11,2020-03-02
+states,British Columbia,Canada,-7,2020-03-03
+states,British Columbia,Canada,-4,2020-03-04
+states,British Columbia,Canada,-6,2020-03-05
+states,British Columbia,Canada,-6,2020-03-06
+states,British Columbia,Canada,-11,2020-03-07
+states,British Columbia,Canada,-6,2020-03-08
+states,British Columbia,Canada,-3,2020-03-09
+states,British Columbia,Canada,-15,2020-03-10
+states,British Columbia,Canada,-13,2020-03-11
+states,British Columbia,Canada,-21,2020-03-12
+states,British Columbia,Canada,-30,2020-03-13
+states,British Columbia,Canada,-30,2020-03-14
+states,British Columbia,Canada,-38,2020-03-15
+states,British Columbia,Canada,-54,2020-03-16
+states,British Columbia,Canada,-92,2020-03-17
+states,British Columbia,Canada,-97,2020-03-18
+states,British Columbia,Canada,-100,2020-03-19
+states,British Columbia,Canada,-100,2020-03-20
+states,British Columbia,Canada,-100,2020-03-21
+states,British Columbia,Canada,-100,2020-03-22
+states,British Columbia,Canada,-100,2020-03-23
+states,British Columbia,Canada,-100,2020-03-24
+states,British Columbia,Canada,-100,2020-03-25
+states,British Columbia,Canada,-100,2020-03-26
+states,British Columbia,Canada,-100,2020-03-27
+states,British Columbia,Canada,-100,2020-03-28
+states,British Columbia,Canada,-100,2020-03-29
+states,British Columbia,Canada,-100,2020-03-30
+states,California,United States,-2,2020-02-18
+states,California,United States,2,2020-02-19
+states,California,United States,5,2020-02-20
+states,California,United States,0,2020-02-21
+states,California,United States,-2,2020-02-22
+states,California,United States,7,2020-02-23
+states,California,United States,3,2020-02-24
+states,California,United States,6,2020-02-25
+states,California,United States,4,2020-02-26
+states,California,United States,3,2020-02-27
+states,California,United States,5,2020-02-28
+states,California,United States,9,2020-02-29
+states,California,United States,-3,2020-03-01
+states,California,United States,-6,2020-03-02
+states,California,United States,-4,2020-03-03
+states,California,United States,-3,2020-03-04
+states,California,United States,-10,2020-03-05
+states,California,United States,-8,2020-03-06
+states,California,United States,-5,2020-03-07
+states,California,United States,-5,2020-03-08
+states,California,United States,-18,2020-03-09
+states,California,United States,-27,2020-03-10
+states,California,United States,-23,2020-03-11
+states,California,United States,-38,2020-03-12
+states,California,United States,-42,2020-03-13
+states,California,United States,-47,2020-03-14
+states,California,United States,-55,2020-03-15
+states,California,United States,-70,2020-03-16
+states,California,United States,-96,2020-03-17
+states,California,United States,-99,2020-03-18
+states,California,United States,-100,2020-03-19
+states,California,United States,-100,2020-03-20
+states,California,United States,-100,2020-03-21
+states,California,United States,-100,2020-03-22
+states,California,United States,-100,2020-03-23
+states,California,United States,-100,2020-03-24
+states,California,United States,-100,2020-03-25
+states,California,United States,-100,2020-03-26
+states,California,United States,-100,2020-03-27
+states,California,United States,-100,2020-03-28
+states,California,United States,-100,2020-03-29
+states,California,United States,-100,2020-03-30
+states,Colorado,United States,1,2020-02-18
+states,Colorado,United States,-8,2020-02-19
+states,Colorado,United States,-4,2020-02-20
+states,Colorado,United States,7,2020-02-21
+states,Colorado,United States,1,2020-02-22
+states,Colorado,United States,-8,2020-02-23
+states,Colorado,United States,-2,2020-02-24
+states,Colorado,United States,-4,2020-02-25
+states,Colorado,United States,-1,2020-02-26
+states,Colorado,United States,-2,2020-02-27
+states,Colorado,United States,0,2020-02-28
+states,Colorado,United States,22,2020-02-29
+states,Colorado,United States,26,2020-03-01
+states,Colorado,United States,-1,2020-03-02
+states,Colorado,United States,-6,2020-03-03
+states,Colorado,United States,-6,2020-03-04
+states,Colorado,United States,-4,2020-03-05
+states,Colorado,United States,-8,2020-03-06
+states,Colorado,United States,-10,2020-03-07
+states,Colorado,United States,-6,2020-03-08
+states,Colorado,United States,-13,2020-03-09
+states,Colorado,United States,-17,2020-03-10
+states,Colorado,United States,-8,2020-03-11
+states,Colorado,United States,-17,2020-03-12
+states,Colorado,United States,-41,2020-03-13
+states,Colorado,United States,-45,2020-03-14
+states,Colorado,United States,-52,2020-03-15
+states,Colorado,United States,-66,2020-03-16
+states,Colorado,United States,-98,2020-03-17
+states,Colorado,United States,-100,2020-03-18
+states,Colorado,United States,-100,2020-03-19
+states,Colorado,United States,-100,2020-03-20
+states,Colorado,United States,-100,2020-03-21
+states,Colorado,United States,-100,2020-03-22
+states,Colorado,United States,-100,2020-03-23
+states,Colorado,United States,-100,2020-03-24
+states,Colorado,United States,-100,2020-03-25
+states,Colorado,United States,-100,2020-03-26
+states,Colorado,United States,-100,2020-03-27
+states,Colorado,United States,-100,2020-03-28
+states,Colorado,United States,-100,2020-03-29
+states,Colorado,United States,-100,2020-03-30
+states,Connecticut,United States,8,2020-02-18
+states,Connecticut,United States,26,2020-02-19
+states,Connecticut,United States,1,2020-02-20
+states,Connecticut,United States,-3,2020-02-21
+states,Connecticut,United States,-6,2020-02-22
+states,Connecticut,United States,2,2020-02-23
+states,Connecticut,United States,-2,2020-02-24
+states,Connecticut,United States,6,2020-02-25
+states,Connecticut,United States,9,2020-02-26
+states,Connecticut,United States,-8,2020-02-27
+states,Connecticut,United States,-1,2020-02-28
+states,Connecticut,United States,4,2020-02-29
+states,Connecticut,United States,13,2020-03-01
+states,Connecticut,United States,13,2020-03-02
+states,Connecticut,United States,-9,2020-03-03
+states,Connecticut,United States,-6,2020-03-04
+states,Connecticut,United States,-7,2020-03-05
+states,Connecticut,United States,-8,2020-03-06
+states,Connecticut,United States,-8,2020-03-07
+states,Connecticut,United States,0,2020-03-08
+states,Connecticut,United States,-12,2020-03-09
+states,Connecticut,United States,-20,2020-03-10
+states,Connecticut,United States,-20,2020-03-11
+states,Connecticut,United States,-43,2020-03-12
+states,Connecticut,United States,-50,2020-03-13
+states,Connecticut,United States,-58,2020-03-14
+states,Connecticut,United States,-57,2020-03-15
+states,Connecticut,United States,-55,2020-03-16
+states,Connecticut,United States,-100,2020-03-17
+states,Connecticut,United States,-100,2020-03-18
+states,Connecticut,United States,-100,2020-03-19
+states,Connecticut,United States,-100,2020-03-20
+states,Connecticut,United States,-100,2020-03-21
+states,Connecticut,United States,-100,2020-03-22
+states,Connecticut,United States,-100,2020-03-23
+states,Connecticut,United States,-100,2020-03-24
+states,Connecticut,United States,-100,2020-03-25
+states,Connecticut,United States,-100,2020-03-26
+states,Connecticut,United States,-100,2020-03-27
+states,Connecticut,United States,-100,2020-03-28
+states,Connecticut,United States,-100,2020-03-29
+states,Connecticut,United States,-100,2020-03-30
+states,District of Columbia,United States,-5,2020-02-18
+states,District of Columbia,United States,55,2020-02-19
+states,District of Columbia,United States,8,2020-02-20
+states,District of Columbia,United States,0,2020-02-21
+states,District of Columbia,United States,8,2020-02-22
+states,District of Columbia,United States,15,2020-02-23
+states,District of Columbia,United States,11,2020-02-24
+states,District of Columbia,United States,8,2020-02-25
+states,District of Columbia,United States,8,2020-02-26
+states,District of Columbia,United States,1,2020-02-27
+states,District of Columbia,United States,3,2020-02-28
+states,District of Columbia,United States,2,2020-02-29
+states,District of Columbia,United States,5,2020-03-01
+states,District of Columbia,United States,0,2020-03-02
+states,District of Columbia,United States,-9,2020-03-03
+states,District of Columbia,United States,7,2020-03-04
+states,District of Columbia,United States,-5,2020-03-05
+states,District of Columbia,United States,-6,2020-03-06
+states,District of Columbia,United States,0,2020-03-07
+states,District of Columbia,United States,0,2020-03-08
+states,District of Columbia,United States,-10,2020-03-09
+states,District of Columbia,United States,-18,2020-03-10
+states,District of Columbia,United States,-22,2020-03-11
+states,District of Columbia,United States,-38,2020-03-12
+states,District of Columbia,United States,-44,2020-03-13
+states,District of Columbia,United States,-44,2020-03-14
+states,District of Columbia,United States,-55,2020-03-15
+states,District of Columbia,United States,-77,2020-03-16
+states,District of Columbia,United States,-100,2020-03-17
+states,District of Columbia,United States,-100,2020-03-18
+states,District of Columbia,United States,-100,2020-03-19
+states,District of Columbia,United States,-100,2020-03-20
+states,District of Columbia,United States,-100,2020-03-21
+states,District of Columbia,United States,-100,2020-03-22
+states,District of Columbia,United States,-100,2020-03-23
+states,District of Columbia,United States,-100,2020-03-24
+states,District of Columbia,United States,-100,2020-03-25
+states,District of Columbia,United States,-100,2020-03-26
+states,District of Columbia,United States,-100,2020-03-27
+states,District of Columbia,United States,-100,2020-03-28
+states,District of Columbia,United States,-100,2020-03-29
+states,District of Columbia,United States,-100,2020-03-30
+states,Florida,United States,0,2020-02-18
+states,Florida,United States,-3,2020-02-19
+states,Florida,United States,-4,2020-02-20
+states,Florida,United States,-5,2020-02-21
+states,Florida,United States,2,2020-02-22
+states,Florida,United States,2,2020-02-23
+states,Florida,United States,2,2020-02-24
+states,Florida,United States,5,2020-02-25
+states,Florida,United States,3,2020-02-26
+states,Florida,United States,4,2020-02-27
+states,Florida,United States,2,2020-02-28
+states,Florida,United States,0,2020-02-29
+states,Florida,United States,-5,2020-03-01
+states,Florida,United States,-10,2020-03-02
+states,Florida,United States,-10,2020-03-03
+states,Florida,United States,-8,2020-03-04
+states,Florida,United States,-7,2020-03-05
+states,Florida,United States,-5,2020-03-06
+states,Florida,United States,-2,2020-03-07
+states,Florida,United States,-5,2020-03-08
+states,Florida,United States,-18,2020-03-09
+states,Florida,United States,-18,2020-03-10
+states,Florida,United States,-18,2020-03-11
+states,Florida,United States,-23,2020-03-12
+states,Florida,United States,-28,2020-03-13
+states,Florida,United States,-31,2020-03-14
+states,Florida,United States,-38,2020-03-15
+states,Florida,United States,-47,2020-03-16
+states,Florida,United States,-76,2020-03-17
+states,Florida,United States,-84,2020-03-18
+states,Florida,United States,-90,2020-03-19
+states,Florida,United States,-97,2020-03-20
+states,Florida,United States,-100,2020-03-21
+states,Florida,United States,-100,2020-03-22
+states,Florida,United States,-100,2020-03-23
+states,Florida,United States,-100,2020-03-24
+states,Florida,United States,-100,2020-03-25
+states,Florida,United States,-100,2020-03-26
+states,Florida,United States,-100,2020-03-27
+states,Florida,United States,-100,2020-03-28
+states,Florida,United States,-100,2020-03-29
+states,Florida,United States,-100,2020-03-30
+states,Georgia,United States,0,2020-02-18
+states,Georgia,United States,4,2020-02-19
+states,Georgia,United States,-6,2020-02-20
+states,Georgia,United States,-5,2020-02-21
+states,Georgia,United States,-2,2020-02-22
+states,Georgia,United States,-9,2020-02-23
+states,Georgia,United States,-9,2020-02-24
+states,Georgia,United States,2,2020-02-25
+states,Georgia,United States,-4,2020-02-26
+states,Georgia,United States,-4,2020-02-27
+states,Georgia,United States,2,2020-02-28
+states,Georgia,United States,-3,2020-02-29
+states,Georgia,United States,8,2020-03-01
+states,Georgia,United States,-12,2020-03-02
+states,Georgia,United States,-21,2020-03-03
+states,Georgia,United States,-17,2020-03-04
+states,Georgia,United States,-12,2020-03-05
+states,Georgia,United States,-3,2020-03-06
+states,Georgia,United States,-2,2020-03-07
+states,Georgia,United States,7,2020-03-08
+states,Georgia,United States,-4,2020-03-09
+states,Georgia,United States,-15,2020-03-10
+states,Georgia,United States,-17,2020-03-11
+states,Georgia,United States,-23,2020-03-12
+states,Georgia,United States,-34,2020-03-13
+states,Georgia,United States,-36,2020-03-14
+states,Georgia,United States,-47,2020-03-15
+states,Georgia,United States,-66,2020-03-16
+states,Georgia,United States,-88,2020-03-17
+states,Georgia,United States,-93,2020-03-18
+states,Georgia,United States,-95,2020-03-19
+states,Georgia,United States,-98,2020-03-20
+states,Georgia,United States,-99,2020-03-21
+states,Georgia,United States,-100,2020-03-22
+states,Georgia,United States,-100,2020-03-23
+states,Georgia,United States,-100,2020-03-24
+states,Georgia,United States,-100,2020-03-25
+states,Georgia,United States,-100,2020-03-26
+states,Georgia,United States,-100,2020-03-27
+states,Georgia,United States,-100,2020-03-28
+states,Georgia,United States,-100,2020-03-29
+states,Georgia,United States,-100,2020-03-30
+states,Hawaii,United States,0,2020-02-18
+states,Hawaii,United States,2,2020-02-19
+states,Hawaii,United States,4,2020-02-20
+states,Hawaii,United States,5,2020-02-21
+states,Hawaii,United States,4,2020-02-22
+states,Hawaii,United States,3,2020-02-23
+states,Hawaii,United States,2,2020-02-24
+states,Hawaii,United States,-1,2020-02-25
+states,Hawaii,United States,9,2020-02-26
+states,Hawaii,United States,6,2020-02-27
+states,Hawaii,United States,4,2020-02-28
+states,Hawaii,United States,-2,2020-02-29
+states,Hawaii,United States,-2,2020-03-01
+states,Hawaii,United States,-2,2020-03-02
+states,Hawaii,United States,-5,2020-03-03
+states,Hawaii,United States,-4,2020-03-04
+states,Hawaii,United States,-5,2020-03-05
+states,Hawaii,United States,-8,2020-03-06
+states,Hawaii,United States,-6,2020-03-07
+states,Hawaii,United States,-9,2020-03-08
+states,Hawaii,United States,-8,2020-03-09
+states,Hawaii,United States,-10,2020-03-10
+states,Hawaii,United States,-11,2020-03-11
+states,Hawaii,United States,-15,2020-03-12
+states,Hawaii,United States,-14,2020-03-13
+states,Hawaii,United States,-19,2020-03-14
+states,Hawaii,United States,-26,2020-03-15
+states,Hawaii,United States,-31,2020-03-16
+states,Hawaii,United States,-47,2020-03-17
+states,Hawaii,United States,-71,2020-03-18
+states,Hawaii,United States,-83,2020-03-19
+states,Hawaii,United States,-97,2020-03-20
+states,Hawaii,United States,-99,2020-03-21
+states,Hawaii,United States,-99,2020-03-22
+states,Hawaii,United States,-100,2020-03-23
+states,Hawaii,United States,-100,2020-03-24
+states,Hawaii,United States,-100,2020-03-25
+states,Hawaii,United States,-100,2020-03-26
+states,Hawaii,United States,-100,2020-03-27
+states,Hawaii,United States,-100,2020-03-28
+states,Hawaii,United States,-100,2020-03-29
+states,Hawaii,United States,-100,2020-03-30
+states,Illinois,United States,-4,2020-02-18
+states,Illinois,United States,4,2020-02-19
+states,Illinois,United States,-2,2020-02-20
+states,Illinois,United States,-3,2020-02-21
+states,Illinois,United States,6,2020-02-22
+states,Illinois,United States,11,2020-02-23
+states,Illinois,United States,-5,2020-02-24
+states,Illinois,United States,-14,2020-02-25
+states,Illinois,United States,-14,2020-02-26
+states,Illinois,United States,-9,2020-02-27
+states,Illinois,United States,-6,2020-02-28
+states,Illinois,United States,0,2020-02-29
+states,Illinois,United States,2,2020-03-01
+states,Illinois,United States,-13,2020-03-02
+states,Illinois,United States,-12,2020-03-03
+states,Illinois,United States,-3,2020-03-04
+states,Illinois,United States,-5,2020-03-05
+states,Illinois,United States,-7,2020-03-06
+states,Illinois,United States,4,2020-03-07
+states,Illinois,United States,4,2020-03-08
+states,Illinois,United States,-21,2020-03-09
+states,Illinois,United States,-18,2020-03-10
+states,Illinois,United States,-22,2020-03-11
+states,Illinois,United States,-26,2020-03-12
+states,Illinois,United States,-35,2020-03-13
+states,Illinois,United States,-47,2020-03-14
+states,Illinois,United States,-51,2020-03-15
+states,Illinois,United States,-61,2020-03-16
+states,Illinois,United States,-100,2020-03-17
+states,Illinois,United States,-100,2020-03-18
+states,Illinois,United States,-100,2020-03-19
+states,Illinois,United States,-100,2020-03-20
+states,Illinois,United States,-100,2020-03-21
+states,Illinois,United States,-100,2020-03-22
+states,Illinois,United States,-100,2020-03-23
+states,Illinois,United States,-100,2020-03-24
+states,Illinois,United States,-100,2020-03-25
+states,Illinois,United States,-100,2020-03-26
+states,Illinois,United States,-100,2020-03-27
+states,Illinois,United States,-100,2020-03-28
+states,Illinois,United States,-100,2020-03-29
+states,Illinois,United States,-100,2020-03-30
+states,Indiana,United States,21,2020-02-18
+states,Indiana,United States,13,2020-02-19
+states,Indiana,United States,-15,2020-02-20
+states,Indiana,United States,-8,2020-02-21
+states,Indiana,United States,3,2020-02-22
+states,Indiana,United States,13,2020-02-23
+states,Indiana,United States,6,2020-02-24
+states,Indiana,United States,3,2020-02-25
+states,Indiana,United States,-5,2020-02-26
+states,Indiana,United States,-8,2020-02-27
+states,Indiana,United States,-1,2020-02-28
+states,Indiana,United States,4,2020-02-29
+states,Indiana,United States,18,2020-03-01
+states,Indiana,United States,1,2020-03-02
+states,Indiana,United States,-3,2020-03-03
+states,Indiana,United States,3,2020-03-04
+states,Indiana,United States,5,2020-03-05
+states,Indiana,United States,1,2020-03-06
+states,Indiana,United States,4,2020-03-07
+states,Indiana,United States,4,2020-03-08
+states,Indiana,United States,-17,2020-03-09
+states,Indiana,United States,-11,2020-03-10
+states,Indiana,United States,-16,2020-03-11
+states,Indiana,United States,-29,2020-03-12
+states,Indiana,United States,-34,2020-03-13
+states,Indiana,United States,-48,2020-03-14
+states,Indiana,United States,-51,2020-03-15
+states,Indiana,United States,-67,2020-03-16
+states,Indiana,United States,-96,2020-03-17
+states,Indiana,United States,-97,2020-03-18
+states,Indiana,United States,-100,2020-03-19
+states,Indiana,United States,-100,2020-03-20
+states,Indiana,United States,-100,2020-03-21
+states,Indiana,United States,-100,2020-03-22
+states,Indiana,United States,-100,2020-03-23
+states,Indiana,United States,-100,2020-03-24
+states,Indiana,United States,-100,2020-03-25
+states,Indiana,United States,-100,2020-03-26
+states,Indiana,United States,-100,2020-03-27
+states,Indiana,United States,-100,2020-03-28
+states,Indiana,United States,-100,2020-03-29
+states,Indiana,United States,-100,2020-03-30
+states,Jalisco,Mexico,8,2020-02-18
+states,Jalisco,Mexico,9,2020-02-19
+states,Jalisco,Mexico,0,2020-02-20
+states,Jalisco,Mexico,5,2020-02-21
+states,Jalisco,Mexico,-6,2020-02-22
+states,Jalisco,Mexico,2,2020-02-23
+states,Jalisco,Mexico,-9,2020-02-24
+states,Jalisco,Mexico,-4,2020-02-25
+states,Jalisco,Mexico,-13,2020-02-26
+states,Jalisco,Mexico,-16,2020-02-27
+states,Jalisco,Mexico,-15,2020-02-28
+states,Jalisco,Mexico,-12,2020-02-29
+states,Jalisco,Mexico,-6,2020-03-01
+states,Jalisco,Mexico,-18,2020-03-02
+states,Jalisco,Mexico,-15,2020-03-03
+states,Jalisco,Mexico,-23,2020-03-04
+states,Jalisco,Mexico,-13,2020-03-05
+states,Jalisco,Mexico,-12,2020-03-06
+states,Jalisco,Mexico,-2,2020-03-07
+states,Jalisco,Mexico,-4,2020-03-08
+states,Jalisco,Mexico,-23,2020-03-09
+states,Jalisco,Mexico,-19,2020-03-10
+states,Jalisco,Mexico,-2,2020-03-11
+states,Jalisco,Mexico,-6,2020-03-12
+states,Jalisco,Mexico,-17,2020-03-13
+states,Jalisco,Mexico,-20,2020-03-14
+states,Jalisco,Mexico,-38,2020-03-15
+states,Jalisco,Mexico,-57,2020-03-16
+states,Jalisco,Mexico,-73,2020-03-17
+states,Jalisco,Mexico,-81,2020-03-18
+states,Jalisco,Mexico,-71,2020-03-19
+states,Jalisco,Mexico,-84,2020-03-20
+states,Jalisco,Mexico,-92,2020-03-21
+states,Jalisco,Mexico,-95,2020-03-22
+states,Jalisco,Mexico,-95,2020-03-23
+states,Jalisco,Mexico,-96,2020-03-24
+states,Jalisco,Mexico,-98,2020-03-25
+states,Jalisco,Mexico,-98,2020-03-26
+states,Jalisco,Mexico,-96,2020-03-27
+states,Jalisco,Mexico,-95,2020-03-28
+states,Jalisco,Mexico,-99,2020-03-29
+states,Jalisco,Mexico,-98,2020-03-30
+states,Kansas,United States,39,2020-02-18
+states,Kansas,United States,2,2020-02-19
+states,Kansas,United States,-14,2020-02-20
+states,Kansas,United States,-11,2020-02-21
+states,Kansas,United States,-4,2020-02-22
+states,Kansas,United States,-6,2020-02-23
+states,Kansas,United States,-12,2020-02-24
+states,Kansas,United States,-3,2020-02-25
+states,Kansas,United States,5,2020-02-26
+states,Kansas,United States,-20,2020-02-27
+states,Kansas,United States,-14,2020-02-28
+states,Kansas,United States,2,2020-02-29
+states,Kansas,United States,69,2020-03-01
+states,Kansas,United States,-13,2020-03-02
+states,Kansas,United States,-14,2020-03-03
+states,Kansas,United States,-8,2020-03-04
+states,Kansas,United States,-10,2020-03-05
+states,Kansas,United States,-10,2020-03-06
+states,Kansas,United States,-8,2020-03-07
+states,Kansas,United States,-9,2020-03-08
+states,Kansas,United States,-21,2020-03-09
+states,Kansas,United States,-6,2020-03-10
+states,Kansas,United States,-9,2020-03-11
+states,Kansas,United States,-1,2020-03-12
+states,Kansas,United States,-35,2020-03-13
+states,Kansas,United States,-39,2020-03-14
+states,Kansas,United States,-55,2020-03-15
+states,Kansas,United States,-67,2020-03-16
+states,Kansas,United States,-79,2020-03-17
+states,Kansas,United States,-94,2020-03-18
+states,Kansas,United States,-99,2020-03-19
+states,Kansas,United States,-99,2020-03-20
+states,Kansas,United States,-99,2020-03-21
+states,Kansas,United States,-100,2020-03-22
+states,Kansas,United States,-99,2020-03-23
+states,Kansas,United States,-100,2020-03-24
+states,Kansas,United States,-100,2020-03-25
+states,Kansas,United States,-100,2020-03-26
+states,Kansas,United States,-100,2020-03-27
+states,Kansas,United States,-100,2020-03-28
+states,Kansas,United States,-100,2020-03-29
+states,Kansas,United States,-100,2020-03-30
+states,Kentucky,United States,11,2020-02-18
+states,Kentucky,United States,14,2020-02-19
+states,Kentucky,United States,2,2020-02-20
+states,Kentucky,United States,6,2020-02-21
+states,Kentucky,United States,11,2020-02-22
+states,Kentucky,United States,-2,2020-02-23
+states,Kentucky,United States,2,2020-02-24
+states,Kentucky,United States,-7,2020-02-25
+states,Kentucky,United States,-14,2020-02-26
+states,Kentucky,United States,-8,2020-02-27
+states,Kentucky,United States,0,2020-02-28
+states,Kentucky,United States,17,2020-02-29
+states,Kentucky,United States,19,2020-03-01
+states,Kentucky,United States,-5,2020-03-02
+states,Kentucky,United States,0,2020-03-03
+states,Kentucky,United States,-6,2020-03-04
+states,Kentucky,United States,4,2020-03-05
+states,Kentucky,United States,-3,2020-03-06
+states,Kentucky,United States,1,2020-03-07
+states,Kentucky,United States,3,2020-03-08
+states,Kentucky,United States,-17,2020-03-09
+states,Kentucky,United States,-21,2020-03-10
+states,Kentucky,United States,-20,2020-03-11
+states,Kentucky,United States,-26,2020-03-12
+states,Kentucky,United States,-30,2020-03-13
+states,Kentucky,United States,-46,2020-03-14
+states,Kentucky,United States,-55,2020-03-15
+states,Kentucky,United States,-74,2020-03-16
+states,Kentucky,United States,-100,2020-03-17
+states,Kentucky,United States,-100,2020-03-18
+states,Kentucky,United States,-100,2020-03-19
+states,Kentucky,United States,-100,2020-03-20
+states,Kentucky,United States,-99,2020-03-21
+states,Kentucky,United States,-98,2020-03-22
+states,Kentucky,United States,-98,2020-03-23
+states,Kentucky,United States,-98,2020-03-24
+states,Kentucky,United States,-98,2020-03-25
+states,Kentucky,United States,-98,2020-03-26
+states,Kentucky,United States,-99,2020-03-27
+states,Kentucky,United States,-98,2020-03-28
+states,Kentucky,United States,-100,2020-03-29
+states,Kentucky,United States,-99,2020-03-30
+states,Louisiana,United States,-6,2020-02-18
+states,Louisiana,United States,2,2020-02-19
+states,Louisiana,United States,9,2020-02-20
+states,Louisiana,United States,10,2020-02-21
+states,Louisiana,United States,2,2020-02-22
+states,Louisiana,United States,11,2020-02-23
+states,Louisiana,United States,80,2020-02-24
+states,Louisiana,United States,78,2020-02-25
+states,Louisiana,United States,4,2020-02-26
+states,Louisiana,United States,-15,2020-02-27
+states,Louisiana,United States,-10,2020-02-28
+states,Louisiana,United States,-1,2020-02-29
+states,Louisiana,United States,-19,2020-03-01
+states,Louisiana,United States,-42,2020-03-02
+states,Louisiana,United States,-53,2020-03-03
+states,Louisiana,United States,-25,2020-03-04
+states,Louisiana,United States,6,2020-03-05
+states,Louisiana,United States,5,2020-03-06
+states,Louisiana,United States,5,2020-03-07
+states,Louisiana,United States,-2,2020-03-08
+states,Louisiana,United States,-8,2020-03-09
+states,Louisiana,United States,-13,2020-03-10
+states,Louisiana,United States,-16,2020-03-11
+states,Louisiana,United States,-23,2020-03-12
+states,Louisiana,United States,-28,2020-03-13
+states,Louisiana,United States,-34,2020-03-14
+states,Louisiana,United States,-50,2020-03-15
+states,Louisiana,United States,-55,2020-03-16
+states,Louisiana,United States,-100,2020-03-17
+states,Louisiana,United States,-100,2020-03-18
+states,Louisiana,United States,-100,2020-03-19
+states,Louisiana,United States,-100,2020-03-20
+states,Louisiana,United States,-100,2020-03-21
+states,Louisiana,United States,-100,2020-03-22
+states,Louisiana,United States,-100,2020-03-23
+states,Louisiana,United States,-100,2020-03-24
+states,Louisiana,United States,-100,2020-03-25
+states,Louisiana,United States,-100,2020-03-26
+states,Louisiana,United States,-100,2020-03-27
+states,Louisiana,United States,-100,2020-03-28
+states,Louisiana,United States,-100,2020-03-29
+states,Louisiana,United States,-100,2020-03-30
+states,Maryland,United States,6,2020-02-18
+states,Maryland,United States,70,2020-02-19
+states,Maryland,United States,4,2020-02-20
+states,Maryland,United States,1,2020-02-21
+states,Maryland,United States,8,2020-02-22
+states,Maryland,United States,8,2020-02-23
+states,Maryland,United States,8,2020-02-24
+states,Maryland,United States,-3,2020-02-25
+states,Maryland,United States,-8,2020-02-26
+states,Maryland,United States,-1,2020-02-27
+states,Maryland,United States,10,2020-02-28
+states,Maryland,United States,0,2020-02-29
+states,Maryland,United States,25,2020-03-01
+states,Maryland,United States,-5,2020-03-02
+states,Maryland,United States,-4,2020-03-03
+states,Maryland,United States,11,2020-03-04
+states,Maryland,United States,-5,2020-03-05
+states,Maryland,United States,2,2020-03-06
+states,Maryland,United States,-2,2020-03-07
+states,Maryland,United States,-1,2020-03-08
+states,Maryland,United States,-6,2020-03-09
+states,Maryland,United States,-18,2020-03-10
+states,Maryland,United States,-21,2020-03-11
+states,Maryland,United States,-33,2020-03-12
+states,Maryland,United States,-37,2020-03-13
+states,Maryland,United States,-59,2020-03-14
+states,Maryland,United States,-67,2020-03-15
+states,Maryland,United States,-71,2020-03-16
+states,Maryland,United States,-100,2020-03-17
+states,Maryland,United States,-100,2020-03-18
+states,Maryland,United States,-100,2020-03-19
+states,Maryland,United States,-100,2020-03-20
+states,Maryland,United States,-100,2020-03-21
+states,Maryland,United States,-100,2020-03-22
+states,Maryland,United States,-100,2020-03-23
+states,Maryland,United States,-100,2020-03-24
+states,Maryland,United States,-100,2020-03-25
+states,Maryland,United States,-100,2020-03-26
+states,Maryland,United States,-100,2020-03-27
+states,Maryland,United States,-100,2020-03-28
+states,Maryland,United States,-100,2020-03-29
+states,Maryland,United States,-100,2020-03-30
+states,Massachusetts,United States,0,2020-02-18
+states,Massachusetts,United States,7,2020-02-19
+states,Massachusetts,United States,5,2020-02-20
+states,Massachusetts,United States,-7,2020-02-21
+states,Massachusetts,United States,-1,2020-02-22
+states,Massachusetts,United States,11,2020-02-23
+states,Massachusetts,United States,4,2020-02-24
+states,Massachusetts,United States,1,2020-02-25
+states,Massachusetts,United States,1,2020-02-26
+states,Massachusetts,United States,5,2020-02-27
+states,Massachusetts,United States,-2,2020-02-28
+states,Massachusetts,United States,26,2020-02-29
+states,Massachusetts,United States,-1,2020-03-01
+states,Massachusetts,United States,13,2020-03-02
+states,Massachusetts,United States,-4,2020-03-03
+states,Massachusetts,United States,-5,2020-03-04
+states,Massachusetts,United States,4,2020-03-05
+states,Massachusetts,United States,-6,2020-03-06
+states,Massachusetts,United States,-5,2020-03-07
+states,Massachusetts,United States,13,2020-03-08
+states,Massachusetts,United States,-13,2020-03-09
+states,Massachusetts,United States,-22,2020-03-10
+states,Massachusetts,United States,-25,2020-03-11
+states,Massachusetts,United States,-41,2020-03-12
+states,Massachusetts,United States,-52,2020-03-13
+states,Massachusetts,United States,-41,2020-03-14
+states,Massachusetts,United States,-53,2020-03-15
+states,Massachusetts,United States,-76,2020-03-16
+states,Massachusetts,United States,-100,2020-03-17
+states,Massachusetts,United States,-100,2020-03-18
+states,Massachusetts,United States,-100,2020-03-19
+states,Massachusetts,United States,-100,2020-03-20
+states,Massachusetts,United States,-100,2020-03-21
+states,Massachusetts,United States,-100,2020-03-22
+states,Massachusetts,United States,-100,2020-03-23
+states,Massachusetts,United States,-100,2020-03-24
+states,Massachusetts,United States,-100,2020-03-25
+states,Massachusetts,United States,-100,2020-03-26
+states,Massachusetts,United States,-100,2020-03-27
+states,Massachusetts,United States,-100,2020-03-28
+states,Massachusetts,United States,-100,2020-03-29
+states,Massachusetts,United States,-100,2020-03-30
+states,Mexico City,Mexico,-8,2020-02-18
+states,Mexico City,Mexico,-9,2020-02-19
+states,Mexico City,Mexico,-1,2020-02-20
+states,Mexico City,Mexico,-2,2020-02-21
+states,Mexico City,Mexico,0,2020-02-22
+states,Mexico City,Mexico,2,2020-02-23
+states,Mexico City,Mexico,0,2020-02-24
+states,Mexico City,Mexico,-2,2020-02-25
+states,Mexico City,Mexico,-10,2020-02-26
+states,Mexico City,Mexico,-8,2020-02-27
+states,Mexico City,Mexico,-8,2020-02-28
+states,Mexico City,Mexico,-9,2020-02-29
+states,Mexico City,Mexico,-9,2020-03-01
+states,Mexico City,Mexico,-9,2020-03-02
+states,Mexico City,Mexico,-9,2020-03-03
+states,Mexico City,Mexico,-4,2020-03-04
+states,Mexico City,Mexico,-9,2020-03-05
+states,Mexico City,Mexico,-8,2020-03-06
+states,Mexico City,Mexico,-1,2020-03-07
+states,Mexico City,Mexico,-10,2020-03-08
+states,Mexico City,Mexico,-29,2020-03-09
+states,Mexico City,Mexico,-17,2020-03-10
+states,Mexico City,Mexico,-18,2020-03-11
+states,Mexico City,Mexico,-16,2020-03-12
+states,Mexico City,Mexico,-16,2020-03-13
+states,Mexico City,Mexico,-20,2020-03-14
+states,Mexico City,Mexico,-36,2020-03-15
+states,Mexico City,Mexico,-46,2020-03-16
+states,Mexico City,Mexico,-48,2020-03-17
+states,Mexico City,Mexico,-67,2020-03-18
+states,Mexico City,Mexico,-86,2020-03-19
+states,Mexico City,Mexico,-89,2020-03-20
+states,Mexico City,Mexico,-93,2020-03-21
+states,Mexico City,Mexico,-97,2020-03-22
+states,Mexico City,Mexico,-96,2020-03-23
+states,Mexico City,Mexico,-96,2020-03-24
+states,Mexico City,Mexico,-96,2020-03-25
+states,Mexico City,Mexico,-97,2020-03-26
+states,Mexico City,Mexico,-97,2020-03-27
+states,Mexico City,Mexico,-97,2020-03-28
+states,Mexico City,Mexico,-98,2020-03-29
+states,Mexico City,Mexico,-97,2020-03-30
+states,Michigan,United States,-12,2020-02-18
+states,Michigan,United States,0,2020-02-19
+states,Michigan,United States,-9,2020-02-20
+states,Michigan,United States,-12,2020-02-21
+states,Michigan,United States,0,2020-02-22
+states,Michigan,United States,18,2020-02-23
+states,Michigan,United States,1,2020-02-24
+states,Michigan,United States,-8,2020-02-25
+states,Michigan,United States,-27,2020-02-26
+states,Michigan,United States,-19,2020-02-27
+states,Michigan,United States,-12,2020-02-28
+states,Michigan,United States,-6,2020-02-29
+states,Michigan,United States,-4,2020-03-01
+states,Michigan,United States,4,2020-03-02
+states,Michigan,United States,-13,2020-03-03
+states,Michigan,United States,-1,2020-03-04
+states,Michigan,United States,-4,2020-03-05
+states,Michigan,United States,-9,2020-03-06
+states,Michigan,United States,6,2020-03-07
+states,Michigan,United States,1,2020-03-08
+states,Michigan,United States,-14,2020-03-09
+states,Michigan,United States,-10,2020-03-10
+states,Michigan,United States,-18,2020-03-11
+states,Michigan,United States,-21,2020-03-12
+states,Michigan,United States,-43,2020-03-13
+states,Michigan,United States,-49,2020-03-14
+states,Michigan,United States,-54,2020-03-15
+states,Michigan,United States,-78,2020-03-16
+states,Michigan,United States,-100,2020-03-17
+states,Michigan,United States,-100,2020-03-18
+states,Michigan,United States,-100,2020-03-19
+states,Michigan,United States,-100,2020-03-20
+states,Michigan,United States,-100,2020-03-21
+states,Michigan,United States,-100,2020-03-22
+states,Michigan,United States,-100,2020-03-23
+states,Michigan,United States,-100,2020-03-24
+states,Michigan,United States,-100,2020-03-25
+states,Michigan,United States,-100,2020-03-26
+states,Michigan,United States,-100,2020-03-27
+states,Michigan,United States,-100,2020-03-28
+states,Michigan,United States,-100,2020-03-29
+states,Michigan,United States,-100,2020-03-30
+states,Minnesota,United States,-11,2020-02-18
+states,Minnesota,United States,51,2020-02-19
+states,Minnesota,United States,-15,2020-02-20
+states,Minnesota,United States,-9,2020-02-21
+states,Minnesota,United States,17,2020-02-22
+states,Minnesota,United States,22,2020-02-23
+states,Minnesota,United States,2,2020-02-24
+states,Minnesota,United States,19,2020-02-25
+states,Minnesota,United States,-1,2020-02-26
+states,Minnesota,United States,7,2020-02-27
+states,Minnesota,United States,33,2020-02-28
+states,Minnesota,United States,1,2020-02-29
+states,Minnesota,United States,-1,2020-03-01
+states,Minnesota,United States,-9,2020-03-02
+states,Minnesota,United States,-2,2020-03-03
+states,Minnesota,United States,-3,2020-03-04
+states,Minnesota,United States,-17,2020-03-05
+states,Minnesota,United States,-12,2020-03-06
+states,Minnesota,United States,59,2020-03-07
+states,Minnesota,United States,13,2020-03-08
+states,Minnesota,United States,-17,2020-03-09
+states,Minnesota,United States,-12,2020-03-10
+states,Minnesota,United States,-18,2020-03-11
+states,Minnesota,United States,-24,2020-03-12
+states,Minnesota,United States,-30,2020-03-13
+states,Minnesota,United States,-43,2020-03-14
+states,Minnesota,United States,-51,2020-03-15
+states,Minnesota,United States,-72,2020-03-16
+states,Minnesota,United States,-98,2020-03-17
+states,Minnesota,United States,-100,2020-03-18
+states,Minnesota,United States,-100,2020-03-19
+states,Minnesota,United States,-100,2020-03-20
+states,Minnesota,United States,-100,2020-03-21
+states,Minnesota,United States,-100,2020-03-22
+states,Minnesota,United States,-100,2020-03-23
+states,Minnesota,United States,-100,2020-03-24
+states,Minnesota,United States,-100,2020-03-25
+states,Minnesota,United States,-100,2020-03-26
+states,Minnesota,United States,-100,2020-03-27
+states,Minnesota,United States,-100,2020-03-28
+states,Minnesota,United States,-100,2020-03-29
+states,Minnesota,United States,-100,2020-03-30
+states,Missouri,United States,32,2020-02-18
+states,Missouri,United States,17,2020-02-19
+states,Missouri,United States,-1,2020-02-20
+states,Missouri,United States,3,2020-02-21
+states,Missouri,United States,1,2020-02-22
+states,Missouri,United States,-3,2020-02-23
+states,Missouri,United States,-7,2020-02-24
+states,Missouri,United States,-2,2020-02-25
+states,Missouri,United States,-11,2020-02-26
+states,Missouri,United States,-8,2020-02-27
+states,Missouri,United States,-13,2020-02-28
+states,Missouri,United States,2,2020-02-29
+states,Missouri,United States,72,2020-03-01
+states,Missouri,United States,8,2020-03-02
+states,Missouri,United States,0,2020-03-03
+states,Missouri,United States,-3,2020-03-04
+states,Missouri,United States,4,2020-03-05
+states,Missouri,United States,0,2020-03-06
+states,Missouri,United States,-5,2020-03-07
+states,Missouri,United States,-10,2020-03-08
+states,Missouri,United States,-13,2020-03-09
+states,Missouri,United States,-10,2020-03-10
+states,Missouri,United States,-12,2020-03-11
+states,Missouri,United States,-25,2020-03-12
+states,Missouri,United States,-29,2020-03-13
+states,Missouri,United States,-42,2020-03-14
+states,Missouri,United States,-45,2020-03-15
+states,Missouri,United States,-65,2020-03-16
+states,Missouri,United States,-88,2020-03-17
+states,Missouri,United States,-90,2020-03-18
+states,Missouri,United States,-97,2020-03-19
+states,Missouri,United States,-100,2020-03-20
+states,Missouri,United States,-100,2020-03-21
+states,Missouri,United States,-100,2020-03-22
+states,Missouri,United States,-100,2020-03-23
+states,Missouri,United States,-100,2020-03-24
+states,Missouri,United States,-100,2020-03-25
+states,Missouri,United States,-100,2020-03-26
+states,Missouri,United States,-100,2020-03-27
+states,Missouri,United States,-100,2020-03-28
+states,Missouri,United States,-100,2020-03-29
+states,Missouri,United States,-100,2020-03-30
+states,Nebraska,United States,30,2020-02-18
+states,Nebraska,United States,8,2020-02-19
+states,Nebraska,United States,6,2020-02-20
+states,Nebraska,United States,-1,2020-02-21
+states,Nebraska,United States,163,2020-02-22
+states,Nebraska,United States,60,2020-02-23
+states,Nebraska,United States,4,2020-02-24
+states,Nebraska,United States,3,2020-02-25
+states,Nebraska,United States,-16,2020-02-26
+states,Nebraska,United States,-6,2020-02-27
+states,Nebraska,United States,-15,2020-02-28
+states,Nebraska,United States,5,2020-02-29
+states,Nebraska,United States,-2,2020-03-01
+states,Nebraska,United States,16,2020-03-02
+states,Nebraska,United States,-14,2020-03-03
+states,Nebraska,United States,1,2020-03-04
+states,Nebraska,United States,-1,2020-03-05
+states,Nebraska,United States,-18,2020-03-06
+states,Nebraska,United States,-10,2020-03-07
+states,Nebraska,United States,-4,2020-03-08
+states,Nebraska,United States,-34,2020-03-09
+states,Nebraska,United States,-11,2020-03-10
+states,Nebraska,United States,-16,2020-03-11
+states,Nebraska,United States,-2,2020-03-12
+states,Nebraska,United States,-31,2020-03-13
+states,Nebraska,United States,-32,2020-03-14
+states,Nebraska,United States,-44,2020-03-15
+states,Nebraska,United States,-59,2020-03-16
+states,Nebraska,United States,-95,2020-03-17
+states,Nebraska,United States,-100,2020-03-18
+states,Nebraska,United States,-99,2020-03-19
+states,Nebraska,United States,-100,2020-03-20
+states,Nebraska,United States,-100,2020-03-21
+states,Nebraska,United States,-100,2020-03-22
+states,Nebraska,United States,-100,2020-03-23
+states,Nebraska,United States,-100,2020-03-24
+states,Nebraska,United States,-100,2020-03-25
+states,Nebraska,United States,-100,2020-03-26
+states,Nebraska,United States,-100,2020-03-27
+states,Nebraska,United States,-100,2020-03-28
+states,Nebraska,United States,-100,2020-03-29
+states,Nebraska,United States,-100,2020-03-30
+states,Nevada,United States,-19,2020-02-18
+states,Nevada,United States,-18,2020-02-19
+states,Nevada,United States,-1,2020-02-20
+states,Nevada,United States,1,2020-02-21
+states,Nevada,United States,-4,2020-02-22
+states,Nevada,United States,8,2020-02-23
+states,Nevada,United States,1,2020-02-24
+states,Nevada,United States,-1,2020-02-25
+states,Nevada,United States,-14,2020-02-26
+states,Nevada,United States,-7,2020-02-27
+states,Nevada,United States,-6,2020-02-28
+states,Nevada,United States,-4,2020-02-29
+states,Nevada,United States,-15,2020-03-01
+states,Nevada,United States,-28,2020-03-02
+states,Nevada,United States,-27,2020-03-03
+states,Nevada,United States,-11,2020-03-04
+states,Nevada,United States,-10,2020-03-05
+states,Nevada,United States,-6,2020-03-06
+states,Nevada,United States,-6,2020-03-07
+states,Nevada,United States,-7,2020-03-08
+states,Nevada,United States,-11,2020-03-09
+states,Nevada,United States,-18,2020-03-10
+states,Nevada,United States,-12,2020-03-11
+states,Nevada,United States,-21,2020-03-12
+states,Nevada,United States,-31,2020-03-13
+states,Nevada,United States,-40,2020-03-14
+states,Nevada,United States,-37,2020-03-15
+states,Nevada,United States,-69,2020-03-16
+states,Nevada,United States,-94,2020-03-17
+states,Nevada,United States,-99,2020-03-18
+states,Nevada,United States,-100,2020-03-19
+states,Nevada,United States,-100,2020-03-20
+states,Nevada,United States,-100,2020-03-21
+states,Nevada,United States,-100,2020-03-22
+states,Nevada,United States,-100,2020-03-23
+states,Nevada,United States,-100,2020-03-24
+states,Nevada,United States,-100,2020-03-25
+states,Nevada,United States,-100,2020-03-26
+states,Nevada,United States,-100,2020-03-27
+states,Nevada,United States,-100,2020-03-28
+states,Nevada,United States,-100,2020-03-29
+states,Nevada,United States,-100,2020-03-30
+states,New Jersey,United States,3,2020-02-18
+states,New Jersey,United States,70,2020-02-19
+states,New Jersey,United States,-4,2020-02-20
+states,New Jersey,United States,-2,2020-02-21
+states,New Jersey,United States,3,2020-02-22
+states,New Jersey,United States,12,2020-02-23
+states,New Jersey,United States,6,2020-02-24
+states,New Jersey,United States,-7,2020-02-25
+states,New Jersey,United States,-9,2020-02-26
+states,New Jersey,United States,-8,2020-02-27
+states,New Jersey,United States,1,2020-02-28
+states,New Jersey,United States,3,2020-02-29
+states,New Jersey,United States,10,2020-03-01
+states,New Jersey,United States,-5,2020-03-02
+states,New Jersey,United States,-12,2020-03-03
+states,New Jersey,United States,-2,2020-03-04
+states,New Jersey,United States,-4,2020-03-05
+states,New Jersey,United States,-16,2020-03-06
+states,New Jersey,United States,-6,2020-03-07
+states,New Jersey,United States,10,2020-03-08
+states,New Jersey,United States,12,2020-03-09
+states,New Jersey,United States,-4,2020-03-10
+states,New Jersey,United States,-14,2020-03-11
+states,New Jersey,United States,-26,2020-03-12
+states,New Jersey,United States,-40,2020-03-13
+states,New Jersey,United States,-44,2020-03-14
+states,New Jersey,United States,-56,2020-03-15
+states,New Jersey,United States,-72,2020-03-16
+states,New Jersey,United States,-100,2020-03-17
+states,New Jersey,United States,-100,2020-03-18
+states,New Jersey,United States,-100,2020-03-19
+states,New Jersey,United States,-100,2020-03-20
+states,New Jersey,United States,-100,2020-03-21
+states,New Jersey,United States,-100,2020-03-22
+states,New Jersey,United States,-100,2020-03-23
+states,New Jersey,United States,-100,2020-03-24
+states,New Jersey,United States,-100,2020-03-25
+states,New Jersey,United States,-100,2020-03-26
+states,New Jersey,United States,-100,2020-03-27
+states,New Jersey,United States,-100,2020-03-28
+states,New Jersey,United States,-100,2020-03-29
+states,New Jersey,United States,-100,2020-03-30
+states,New Mexico,United States,18,2020-02-18
+states,New Mexico,United States,-3,2020-02-19
+states,New Mexico,United States,5,2020-02-20
+states,New Mexico,United States,8,2020-02-21
+states,New Mexico,United States,-4,2020-02-22
+states,New Mexico,United States,3,2020-02-23
+states,New Mexico,United States,-3,2020-02-24
+states,New Mexico,United States,-4,2020-02-25
+states,New Mexico,United States,17,2020-02-26
+states,New Mexico,United States,3,2020-02-27
+states,New Mexico,United States,4,2020-02-28
+states,New Mexico,United States,4,2020-02-29
+states,New Mexico,United States,-2,2020-03-01
+states,New Mexico,United States,-4,2020-03-02
+states,New Mexico,United States,-7,2020-03-03
+states,New Mexico,United States,-12,2020-03-04
+states,New Mexico,United States,-19,2020-03-05
+states,New Mexico,United States,-2,2020-03-06
+states,New Mexico,United States,-10,2020-03-07
+states,New Mexico,United States,-21,2020-03-08
+states,New Mexico,United States,0,2020-03-09
+states,New Mexico,United States,7,2020-03-10
+states,New Mexico,United States,2,2020-03-11
+states,New Mexico,United States,-10,2020-03-12
+states,New Mexico,United States,-35,2020-03-13
+states,New Mexico,United States,-40,2020-03-14
+states,New Mexico,United States,-44,2020-03-15
+states,New Mexico,United States,-47,2020-03-16
+states,New Mexico,United States,-79,2020-03-17
+states,New Mexico,United States,-89,2020-03-18
+states,New Mexico,United States,-98,2020-03-19
+states,New Mexico,United States,-100,2020-03-20
+states,New Mexico,United States,-100,2020-03-21
+states,New Mexico,United States,-100,2020-03-22
+states,New Mexico,United States,-100,2020-03-23
+states,New Mexico,United States,-100,2020-03-24
+states,New Mexico,United States,-100,2020-03-25
+states,New Mexico,United States,-100,2020-03-26
+states,New Mexico,United States,-100,2020-03-27
+states,New Mexico,United States,-100,2020-03-28
+states,New Mexico,United States,-100,2020-03-29
+states,New Mexico,United States,-100,2020-03-30
+states,New South Wales,Australia,4,2020-02-18
+states,New South Wales,Australia,-7,2020-02-19
+states,New South Wales,Australia,-1,2020-02-20
+states,New South Wales,Australia,5,2020-02-21
+states,New South Wales,Australia,8,2020-02-22
+states,New South Wales,Australia,-5,2020-02-23
+states,New South Wales,Australia,4,2020-02-24
+states,New South Wales,Australia,3,2020-02-25
+states,New South Wales,Australia,-1,2020-02-26
+states,New South Wales,Australia,-11,2020-02-27
+states,New South Wales,Australia,4,2020-02-28
+states,New South Wales,Australia,8,2020-02-29
+states,New South Wales,Australia,5,2020-03-01
+states,New South Wales,Australia,-31,2020-03-02
+states,New South Wales,Australia,-11,2020-03-03
+states,New South Wales,Australia,-16,2020-03-04
+states,New South Wales,Australia,-9,2020-03-05
+states,New South Wales,Australia,-2,2020-03-06
+states,New South Wales,Australia,5,2020-03-07
+states,New South Wales,Australia,0,2020-03-08
+states,New South Wales,Australia,-16,2020-03-09
+states,New South Wales,Australia,3,2020-03-10
+states,New South Wales,Australia,-9,2020-03-11
+states,New South Wales,Australia,-12,2020-03-12
+states,New South Wales,Australia,-6,2020-03-13
+states,New South Wales,Australia,-9,2020-03-14
+states,New South Wales,Australia,0,2020-03-15
+states,New South Wales,Australia,-32,2020-03-16
+states,New South Wales,Australia,-57,2020-03-17
+states,New South Wales,Australia,-62,2020-03-18
+states,New South Wales,Australia,-52,2020-03-19
+states,New South Wales,Australia,-59,2020-03-20
+states,New South Wales,Australia,-53,2020-03-21
+states,New South Wales,Australia,-63,2020-03-22
+states,New South Wales,Australia,-100,2020-03-23
+states,New South Wales,Australia,-100,2020-03-24
+states,New South Wales,Australia,-100,2020-03-25
+states,New South Wales,Australia,-100,2020-03-26
+states,New South Wales,Australia,-100,2020-03-27
+states,New South Wales,Australia,-100,2020-03-28
+states,New South Wales,Australia,-100,2020-03-29
+states,New South Wales,Australia,-100,2020-03-30
+states,New York,United States,-1,2020-02-18
+states,New York,United States,11,2020-02-19
+states,New York,United States,1,2020-02-20
+states,New York,United States,-4,2020-02-21
+states,New York,United States,1,2020-02-22
+states,New York,United States,13,2020-02-23
+states,New York,United States,6,2020-02-24
+states,New York,United States,1,2020-02-25
+states,New York,United States,-1,2020-02-26
+states,New York,United States,-5,2020-02-27
+states,New York,United States,-2,2020-02-28
+states,New York,United States,-1,2020-02-29
+states,New York,United States,0,2020-03-01
+states,New York,United States,-7,2020-03-02
+states,New York,United States,-11,2020-03-03
+states,New York,United States,-9,2020-03-04
+states,New York,United States,-8,2020-03-05
+states,New York,United States,-14,2020-03-06
+states,New York,United States,-10,2020-03-07
+states,New York,United States,-2,2020-03-08
+states,New York,United States,-15,2020-03-09
+states,New York,United States,-27,2020-03-10
+states,New York,United States,-32,2020-03-11
+states,New York,United States,-49,2020-03-12
+states,New York,United States,-54,2020-03-13
+states,New York,United States,-36,2020-03-14
+states,New York,United States,-47,2020-03-15
+states,New York,United States,-58,2020-03-16
+states,New York,United States,-88,2020-03-17
+states,New York,United States,-100,2020-03-18
+states,New York,United States,-100,2020-03-19
+states,New York,United States,-100,2020-03-20
+states,New York,United States,-100,2020-03-21
+states,New York,United States,-100,2020-03-22
+states,New York,United States,-100,2020-03-23
+states,New York,United States,-100,2020-03-24
+states,New York,United States,-100,2020-03-25
+states,New York,United States,-100,2020-03-26
+states,New York,United States,-100,2020-03-27
+states,New York,United States,-100,2020-03-28
+states,New York,United States,-100,2020-03-29
+states,New York,United States,-100,2020-03-30
+states,North Carolina,United States,4,2020-02-18
+states,North Carolina,United States,1,2020-02-19
+states,North Carolina,United States,-30,2020-02-20
+states,North Carolina,United States,-1,2020-02-21
+states,North Carolina,United States,4,2020-02-22
+states,North Carolina,United States,2,2020-02-23
+states,North Carolina,United States,-9,2020-02-24
+states,North Carolina,United States,1,2020-02-25
+states,North Carolina,United States,5,2020-02-26
+states,North Carolina,United States,-1,2020-02-27
+states,North Carolina,United States,3,2020-02-28
+states,North Carolina,United States,-3,2020-02-29
+states,North Carolina,United States,2,2020-03-01
+states,North Carolina,United States,-7,2020-03-02
+states,North Carolina,United States,-9,2020-03-03
+states,North Carolina,United States,-4,2020-03-04
+states,North Carolina,United States,-7,2020-03-05
+states,North Carolina,United States,-1,2020-03-06
+states,North Carolina,United States,-2,2020-03-07
+states,North Carolina,United States,-7,2020-03-08
+states,North Carolina,United States,-4,2020-03-09
+states,North Carolina,United States,-9,2020-03-10
+states,North Carolina,United States,-14,2020-03-11
+states,North Carolina,United States,-22,2020-03-12
+states,North Carolina,United States,-28,2020-03-13
+states,North Carolina,United States,-56,2020-03-14
+states,North Carolina,United States,-63,2020-03-15
+states,North Carolina,United States,-75,2020-03-16
+states,North Carolina,United States,-93,2020-03-17
+states,North Carolina,United States,-92,2020-03-18
+states,North Carolina,United States,-100,2020-03-19
+states,North Carolina,United States,-100,2020-03-20
+states,North Carolina,United States,-100,2020-03-21
+states,North Carolina,United States,-100,2020-03-22
+states,North Carolina,United States,-100,2020-03-23
+states,North Carolina,United States,-100,2020-03-24
+states,North Carolina,United States,-100,2020-03-25
+states,North Carolina,United States,-100,2020-03-26
+states,North Carolina,United States,-100,2020-03-27
+states,North Carolina,United States,-100,2020-03-28
+states,North Carolina,United States,-100,2020-03-29
+states,North Carolina,United States,-100,2020-03-30
+states,Nuevo Leon,Mexico,-12,2020-02-18
+states,Nuevo Leon,Mexico,-12,2020-02-19
+states,Nuevo Leon,Mexico,-10,2020-02-20
+states,Nuevo Leon,Mexico,4,2020-02-21
+states,Nuevo Leon,Mexico,9,2020-02-22
+states,Nuevo Leon,Mexico,10,2020-02-23
+states,Nuevo Leon,Mexico,0,2020-02-24
+states,Nuevo Leon,Mexico,-12,2020-02-25
+states,Nuevo Leon,Mexico,-10,2020-02-26
+states,Nuevo Leon,Mexico,1,2020-02-27
+states,Nuevo Leon,Mexico,-3,2020-02-28
+states,Nuevo Leon,Mexico,15,2020-02-29
+states,Nuevo Leon,Mexico,7,2020-03-01
+states,Nuevo Leon,Mexico,14,2020-03-02
+states,Nuevo Leon,Mexico,8,2020-03-03
+states,Nuevo Leon,Mexico,3,2020-03-04
+states,Nuevo Leon,Mexico,0,2020-03-05
+states,Nuevo Leon,Mexico,-2,2020-03-06
+states,Nuevo Leon,Mexico,14,2020-03-07
+states,Nuevo Leon,Mexico,-4,2020-03-08
+states,Nuevo Leon,Mexico,-16,2020-03-09
+states,Nuevo Leon,Mexico,-4,2020-03-10
+states,Nuevo Leon,Mexico,-15,2020-03-11
+states,Nuevo Leon,Mexico,-20,2020-03-12
+states,Nuevo Leon,Mexico,-26,2020-03-13
+states,Nuevo Leon,Mexico,-34,2020-03-14
+states,Nuevo Leon,Mexico,-57,2020-03-15
+states,Nuevo Leon,Mexico,-64,2020-03-16
+states,Nuevo Leon,Mexico,-86,2020-03-17
+states,Nuevo Leon,Mexico,-94,2020-03-18
+states,Nuevo Leon,Mexico,-97,2020-03-19
+states,Nuevo Leon,Mexico,-98,2020-03-20
+states,Nuevo Leon,Mexico,-99,2020-03-21
+states,Nuevo Leon,Mexico,-99,2020-03-22
+states,Nuevo Leon,Mexico,-98,2020-03-23
+states,Nuevo Leon,Mexico,-99,2020-03-24
+states,Nuevo Leon,Mexico,-99,2020-03-25
+states,Nuevo Leon,Mexico,-99,2020-03-26
+states,Nuevo Leon,Mexico,-100,2020-03-27
+states,Nuevo Leon,Mexico,-99,2020-03-28
+states,Nuevo Leon,Mexico,-100,2020-03-29
+states,Nuevo Leon,Mexico,-100,2020-03-30
+states,Ohio,United States,-8,2020-02-18
+states,Ohio,United States,1,2020-02-19
+states,Ohio,United States,-5,2020-02-20
+states,Ohio,United States,-7,2020-02-21
+states,Ohio,United States,-7,2020-02-22
+states,Ohio,United States,0,2020-02-23
+states,Ohio,United States,-8,2020-02-24
+states,Ohio,United States,-6,2020-02-25
+states,Ohio,United States,-22,2020-02-26
+states,Ohio,United States,-13,2020-02-27
+states,Ohio,United States,-15,2020-02-28
+states,Ohio,United States,-12,2020-02-29
+states,Ohio,United States,6,2020-03-01
+states,Ohio,United States,-7,2020-03-02
+states,Ohio,United States,-10,2020-03-03
+states,Ohio,United States,-6,2020-03-04
+states,Ohio,United States,-8,2020-03-05
+states,Ohio,United States,-13,2020-03-06
+states,Ohio,United States,-6,2020-03-07
+states,Ohio,United States,-6,2020-03-08
+states,Ohio,United States,-19,2020-03-09
+states,Ohio,United States,-19,2020-03-10
+states,Ohio,United States,-19,2020-03-11
+states,Ohio,United States,-29,2020-03-12
+states,Ohio,United States,-37,2020-03-13
+states,Ohio,United States,-51,2020-03-14
+states,Ohio,United States,-51,2020-03-15
+states,Ohio,United States,-100,2020-03-16
+states,Ohio,United States,-100,2020-03-17
+states,Ohio,United States,-100,2020-03-18
+states,Ohio,United States,-100,2020-03-19
+states,Ohio,United States,-100,2020-03-20
+states,Ohio,United States,-100,2020-03-21
+states,Ohio,United States,-100,2020-03-22
+states,Ohio,United States,-100,2020-03-23
+states,Ohio,United States,-100,2020-03-24
+states,Ohio,United States,-100,2020-03-25
+states,Ohio,United States,-100,2020-03-26
+states,Ohio,United States,-100,2020-03-27
+states,Ohio,United States,-100,2020-03-28
+states,Ohio,United States,-100,2020-03-29
+states,Ohio,United States,-100,2020-03-30
+states,Oklahoma,United States,51,2020-02-18
+states,Oklahoma,United States,13,2020-02-19
+states,Oklahoma,United States,-4,2020-02-20
+states,Oklahoma,United States,4,2020-02-21
+states,Oklahoma,United States,-2,2020-02-22
+states,Oklahoma,United States,-8,2020-02-23
+states,Oklahoma,United States,-5,2020-02-24
+states,Oklahoma,United States,3,2020-02-25
+states,Oklahoma,United States,40,2020-02-26
+states,Oklahoma,United States,1,2020-02-27
+states,Oklahoma,United States,2,2020-02-28
+states,Oklahoma,United States,8,2020-02-29
+states,Oklahoma,United States,40,2020-03-01
+states,Oklahoma,United States,-12,2020-03-02
+states,Oklahoma,United States,5,2020-03-03
+states,Oklahoma,United States,0,2020-03-04
+states,Oklahoma,United States,3,2020-03-05
+states,Oklahoma,United States,2,2020-03-06
+states,Oklahoma,United States,0,2020-03-07
+states,Oklahoma,United States,-10,2020-03-08
+states,Oklahoma,United States,0,2020-03-09
+states,Oklahoma,United States,-4,2020-03-10
+states,Oklahoma,United States,-7,2020-03-11
+states,Oklahoma,United States,1,2020-03-12
+states,Oklahoma,United States,-20,2020-03-13
+states,Oklahoma,United States,-29,2020-03-14
+states,Oklahoma,United States,-31,2020-03-15
+states,Oklahoma,United States,-53,2020-03-16
+states,Oklahoma,United States,-83,2020-03-17
+states,Oklahoma,United States,-70,2020-03-18
+states,Oklahoma,United States,-99,2020-03-19
+states,Oklahoma,United States,-99,2020-03-20
+states,Oklahoma,United States,-99,2020-03-21
+states,Oklahoma,United States,-100,2020-03-22
+states,Oklahoma,United States,-100,2020-03-23
+states,Oklahoma,United States,-100,2020-03-24
+states,Oklahoma,United States,-100,2020-03-25
+states,Oklahoma,United States,-100,2020-03-26
+states,Oklahoma,United States,-100,2020-03-27
+states,Oklahoma,United States,-100,2020-03-28
+states,Oklahoma,United States,-100,2020-03-29
+states,Oklahoma,United States,-100,2020-03-30
+states,Ontario,Canada,-16,2020-02-18
+states,Ontario,Canada,-4,2020-02-19
+states,Ontario,Canada,-6,2020-02-20
+states,Ontario,Canada,-7,2020-02-21
+states,Ontario,Canada,-5,2020-02-22
+states,Ontario,Canada,14,2020-02-23
+states,Ontario,Canada,-2,2020-02-24
+states,Ontario,Canada,-6,2020-02-25
+states,Ontario,Canada,5,2020-02-26
+states,Ontario,Canada,-21,2020-02-27
+states,Ontario,Canada,-15,2020-02-28
+states,Ontario,Canada,-8,2020-02-29
+states,Ontario,Canada,-9,2020-03-01
+states,Ontario,Canada,-9,2020-03-02
+states,Ontario,Canada,-6,2020-03-03
+states,Ontario,Canada,-1,2020-03-04
+states,Ontario,Canada,-2,2020-03-05
+states,Ontario,Canada,-14,2020-03-06
+states,Ontario,Canada,-7,2020-03-07
+states,Ontario,Canada,0,2020-03-08
+states,Ontario,Canada,-20,2020-03-09
+states,Ontario,Canada,-23,2020-03-10
+states,Ontario,Canada,-25,2020-03-11
+states,Ontario,Canada,-35,2020-03-12
+states,Ontario,Canada,-45,2020-03-13
+states,Ontario,Canada,-48,2020-03-14
+states,Ontario,Canada,-53,2020-03-15
+states,Ontario,Canada,-66,2020-03-16
+states,Ontario,Canada,-100,2020-03-17
+states,Ontario,Canada,-100,2020-03-18
+states,Ontario,Canada,-100,2020-03-19
+states,Ontario,Canada,-100,2020-03-20
+states,Ontario,Canada,-100,2020-03-21
+states,Ontario,Canada,-100,2020-03-22
+states,Ontario,Canada,-100,2020-03-23
+states,Ontario,Canada,-100,2020-03-24
+states,Ontario,Canada,-100,2020-03-25
+states,Ontario,Canada,-100,2020-03-26
+states,Ontario,Canada,-100,2020-03-27
+states,Ontario,Canada,-100,2020-03-28
+states,Ontario,Canada,-100,2020-03-29
+states,Ontario,Canada,-100,2020-03-30
+states,Oregon,United States,4,2020-02-18
+states,Oregon,United States,-1,2020-02-19
+states,Oregon,United States,4,2020-02-20
+states,Oregon,United States,9,2020-02-21
+states,Oregon,United States,7,2020-02-22
+states,Oregon,United States,20,2020-02-23
+states,Oregon,United States,12,2020-02-24
+states,Oregon,United States,-1,2020-02-25
+states,Oregon,United States,15,2020-02-26
+states,Oregon,United States,3,2020-02-27
+states,Oregon,United States,-3,2020-02-28
+states,Oregon,United States,3,2020-02-29
+states,Oregon,United States,6,2020-03-01
+states,Oregon,United States,8,2020-03-02
+states,Oregon,United States,-8,2020-03-03
+states,Oregon,United States,-3,2020-03-04
+states,Oregon,United States,-3,2020-03-05
+states,Oregon,United States,-4,2020-03-06
+states,Oregon,United States,-7,2020-03-07
+states,Oregon,United States,0,2020-03-08
+states,Oregon,United States,-15,2020-03-09
+states,Oregon,United States,-13,2020-03-10
+states,Oregon,United States,-22,2020-03-11
+states,Oregon,United States,-33,2020-03-12
+states,Oregon,United States,-40,2020-03-13
+states,Oregon,United States,-47,2020-03-14
+states,Oregon,United States,-55,2020-03-15
+states,Oregon,United States,-61,2020-03-16
+states,Oregon,United States,-99,2020-03-17
+states,Oregon,United States,-100,2020-03-18
+states,Oregon,United States,-100,2020-03-19
+states,Oregon,United States,-100,2020-03-20
+states,Oregon,United States,-100,2020-03-21
+states,Oregon,United States,-100,2020-03-22
+states,Oregon,United States,-100,2020-03-23
+states,Oregon,United States,-100,2020-03-24
+states,Oregon,United States,-100,2020-03-25
+states,Oregon,United States,-100,2020-03-26
+states,Oregon,United States,-100,2020-03-27
+states,Oregon,United States,-100,2020-03-28
+states,Oregon,United States,-100,2020-03-29
+states,Oregon,United States,-100,2020-03-30
+states,Pennsylvania,United States,3,2020-02-18
+states,Pennsylvania,United States,63,2020-02-19
+states,Pennsylvania,United States,0,2020-02-20
+states,Pennsylvania,United States,-3,2020-02-21
+states,Pennsylvania,United States,1,2020-02-22
+states,Pennsylvania,United States,3,2020-02-23
+states,Pennsylvania,United States,0,2020-02-24
+states,Pennsylvania,United States,-5,2020-02-25
+states,Pennsylvania,United States,-3,2020-02-26
+states,Pennsylvania,United States,-3,2020-02-27
+states,Pennsylvania,United States,1,2020-02-28
+states,Pennsylvania,United States,1,2020-02-29
+states,Pennsylvania,United States,30,2020-03-01
+states,Pennsylvania,United States,3,2020-03-02
+states,Pennsylvania,United States,-6,2020-03-03
+states,Pennsylvania,United States,0,2020-03-04
+states,Pennsylvania,United States,2,2020-03-05
+states,Pennsylvania,United States,-9,2020-03-06
+states,Pennsylvania,United States,-3,2020-03-07
+states,Pennsylvania,United States,2,2020-03-08
+states,Pennsylvania,United States,-7,2020-03-09
+states,Pennsylvania,United States,-18,2020-03-10
+states,Pennsylvania,United States,-17,2020-03-11
+states,Pennsylvania,United States,-35,2020-03-12
+states,Pennsylvania,United States,-44,2020-03-13
+states,Pennsylvania,United States,-51,2020-03-14
+states,Pennsylvania,United States,-56,2020-03-15
+states,Pennsylvania,United States,-68,2020-03-16
+states,Pennsylvania,United States,-100,2020-03-17
+states,Pennsylvania,United States,-100,2020-03-18
+states,Pennsylvania,United States,-100,2020-03-19
+states,Pennsylvania,United States,-100,2020-03-20
+states,Pennsylvania,United States,-100,2020-03-21
+states,Pennsylvania,United States,-100,2020-03-22
+states,Pennsylvania,United States,-100,2020-03-23
+states,Pennsylvania,United States,-100,2020-03-24
+states,Pennsylvania,United States,-100,2020-03-25
+states,Pennsylvania,United States,-100,2020-03-26
+states,Pennsylvania,United States,-100,2020-03-27
+states,Pennsylvania,United States,-100,2020-03-28
+states,Pennsylvania,United States,-100,2020-03-29
+states,Pennsylvania,United States,-100,2020-03-30
+states,Quebec,Canada,6,2020-02-18
+states,Quebec,Canada,9,2020-02-19
+states,Quebec,Canada,-4,2020-02-20
+states,Quebec,Canada,-5,2020-02-21
+states,Quebec,Canada,5,2020-02-22
+states,Quebec,Canada,29,2020-02-23
+states,Quebec,Canada,14,2020-02-24
+states,Quebec,Canada,20,2020-02-25
+states,Quebec,Canada,-1,2020-02-26
+states,Quebec,Canada,-11,2020-02-27
+states,Quebec,Canada,-10,2020-02-28
+states,Quebec,Canada,1,2020-02-29
+states,Quebec,Canada,1,2020-03-01
+states,Quebec,Canada,-26,2020-03-02
+states,Quebec,Canada,-16,2020-03-03
+states,Quebec,Canada,5,2020-03-04
+states,Quebec,Canada,-3,2020-03-05
+states,Quebec,Canada,-8,2020-03-06
+states,Quebec,Canada,6,2020-03-07
+states,Quebec,Canada,34,2020-03-08
+states,Quebec,Canada,-4,2020-03-09
+states,Quebec,Canada,-12,2020-03-10
+states,Quebec,Canada,-20,2020-03-11
+states,Quebec,Canada,-26,2020-03-12
+states,Quebec,Canada,-48,2020-03-13
+states,Quebec,Canada,-44,2020-03-14
+states,Quebec,Canada,-46,2020-03-15
+states,Quebec,Canada,-67,2020-03-16
+states,Quebec,Canada,-94,2020-03-17
+states,Quebec,Canada,-97,2020-03-18
+states,Quebec,Canada,-99,2020-03-19
+states,Quebec,Canada,-99,2020-03-20
+states,Quebec,Canada,-100,2020-03-21
+states,Quebec,Canada,-100,2020-03-22
+states,Quebec,Canada,-100,2020-03-23
+states,Quebec,Canada,-100,2020-03-24
+states,Quebec,Canada,-100,2020-03-25
+states,Quebec,Canada,-100,2020-03-26
+states,Quebec,Canada,-100,2020-03-27
+states,Quebec,Canada,-100,2020-03-28
+states,Quebec,Canada,-100,2020-03-29
+states,Quebec,Canada,-100,2020-03-30
+states,Queensland,Australia,5,2020-02-18
+states,Queensland,Australia,2,2020-02-19
+states,Queensland,Australia,0,2020-02-20
+states,Queensland,Australia,4,2020-02-21
+states,Queensland,Australia,2,2020-02-22
+states,Queensland,Australia,4,2020-02-23
+states,Queensland,Australia,9,2020-02-24
+states,Queensland,Australia,7,2020-02-25
+states,Queensland,Australia,3,2020-02-26
+states,Queensland,Australia,7,2020-02-27
+states,Queensland,Australia,6,2020-02-28
+states,Queensland,Australia,-8,2020-02-29
+states,Queensland,Australia,10,2020-03-01
+states,Queensland,Australia,-1,2020-03-02
+states,Queensland,Australia,-1,2020-03-03
+states,Queensland,Australia,-2,2020-03-04
+states,Queensland,Australia,-5,2020-03-05
+states,Queensland,Australia,-3,2020-03-06
+states,Queensland,Australia,-7,2020-03-07
+states,Queensland,Australia,-3,2020-03-08
+states,Queensland,Australia,-6,2020-03-09
+states,Queensland,Australia,0,2020-03-10
+states,Queensland,Australia,-3,2020-03-11
+states,Queensland,Australia,-18,2020-03-12
+states,Queensland,Australia,9,2020-03-13
+states,Queensland,Australia,-4,2020-03-14
+states,Queensland,Australia,4,2020-03-15
+states,Queensland,Australia,-18,2020-03-16
+states,Queensland,Australia,-22,2020-03-17
+states,Queensland,Australia,-32,2020-03-18
+states,Queensland,Australia,-39,2020-03-19
+states,Queensland,Australia,-36,2020-03-20
+states,Queensland,Australia,-44,2020-03-21
+states,Queensland,Australia,-55,2020-03-22
+states,Queensland,Australia,-100,2020-03-23
+states,Queensland,Australia,-100,2020-03-24
+states,Queensland,Australia,-100,2020-03-25
+states,Queensland,Australia,-100,2020-03-26
+states,Queensland,Australia,-100,2020-03-27
+states,Queensland,Australia,-100,2020-03-28
+states,Queensland,Australia,-100,2020-03-29
+states,Queensland,Australia,-100,2020-03-30
+states,Quintana Roo,Mexico,2,2020-02-18
+states,Quintana Roo,Mexico,0,2020-02-19
+states,Quintana Roo,Mexico,-6,2020-02-20
+states,Quintana Roo,Mexico,-7,2020-02-21
+states,Quintana Roo,Mexico,2,2020-02-22
+states,Quintana Roo,Mexico,-1,2020-02-23
+states,Quintana Roo,Mexico,-2,2020-02-24
+states,Quintana Roo,Mexico,2,2020-02-25
+states,Quintana Roo,Mexico,-5,2020-02-26
+states,Quintana Roo,Mexico,3,2020-02-27
+states,Quintana Roo,Mexico,-3,2020-02-28
+states,Quintana Roo,Mexico,6,2020-02-29
+states,Quintana Roo,Mexico,-8,2020-03-01
+states,Quintana Roo,Mexico,-14,2020-03-02
+states,Quintana Roo,Mexico,-16,2020-03-03
+states,Quintana Roo,Mexico,-17,2020-03-04
+states,Quintana Roo,Mexico,2,2020-03-05
+states,Quintana Roo,Mexico,-4,2020-03-06
+states,Quintana Roo,Mexico,-8,2020-03-07
+states,Quintana Roo,Mexico,-5,2020-03-08
+states,Quintana Roo,Mexico,-11,2020-03-09
+states,Quintana Roo,Mexico,-25,2020-03-10
+states,Quintana Roo,Mexico,-17,2020-03-11
+states,Quintana Roo,Mexico,-16,2020-03-12
+states,Quintana Roo,Mexico,-14,2020-03-13
+states,Quintana Roo,Mexico,-19,2020-03-14
+states,Quintana Roo,Mexico,-22,2020-03-15
+states,Quintana Roo,Mexico,-31,2020-03-16
+states,Quintana Roo,Mexico,-45,2020-03-17
+states,Quintana Roo,Mexico,-59,2020-03-18
+states,Quintana Roo,Mexico,-57,2020-03-19
+states,Quintana Roo,Mexico,-71,2020-03-20
+states,Quintana Roo,Mexico,-80,2020-03-21
+states,Quintana Roo,Mexico,-91,2020-03-22
+states,Quintana Roo,Mexico,-90,2020-03-23
+states,Quintana Roo,Mexico,-94,2020-03-24
+states,Quintana Roo,Mexico,-96,2020-03-25
+states,Quintana Roo,Mexico,-98,2020-03-26
+states,Quintana Roo,Mexico,-97,2020-03-27
+states,Quintana Roo,Mexico,-97,2020-03-28
+states,Quintana Roo,Mexico,-98,2020-03-29
+states,Quintana Roo,Mexico,-99,2020-03-30
+states,Rhode Island,United States,8,2020-02-18
+states,Rhode Island,United States,0,2020-02-19
+states,Rhode Island,United States,7,2020-02-20
+states,Rhode Island,United States,-15,2020-02-21
+states,Rhode Island,United States,-6,2020-02-22
+states,Rhode Island,United States,24,2020-02-23
+states,Rhode Island,United States,14,2020-02-24
+states,Rhode Island,United States,-13,2020-02-25
+states,Rhode Island,United States,-13,2020-02-26
+states,Rhode Island,United States,-9,2020-02-27
+states,Rhode Island,United States,-2,2020-02-28
+states,Rhode Island,United States,21,2020-02-29
+states,Rhode Island,United States,-11,2020-03-01
+states,Rhode Island,United States,18,2020-03-02
+states,Rhode Island,United States,-1,2020-03-03
+states,Rhode Island,United States,7,2020-03-04
+states,Rhode Island,United States,-12,2020-03-05
+states,Rhode Island,United States,-2,2020-03-06
+states,Rhode Island,United States,-7,2020-03-07
+states,Rhode Island,United States,26,2020-03-08
+states,Rhode Island,United States,17,2020-03-09
+states,Rhode Island,United States,-16,2020-03-10
+states,Rhode Island,United States,-15,2020-03-11
+states,Rhode Island,United States,-31,2020-03-12
+states,Rhode Island,United States,-41,2020-03-13
+states,Rhode Island,United States,-48,2020-03-14
+states,Rhode Island,United States,-50,2020-03-15
+states,Rhode Island,United States,-53,2020-03-16
+states,Rhode Island,United States,-100,2020-03-17
+states,Rhode Island,United States,-100,2020-03-18
+states,Rhode Island,United States,-100,2020-03-19
+states,Rhode Island,United States,-100,2020-03-20
+states,Rhode Island,United States,-100,2020-03-21
+states,Rhode Island,United States,-100,2020-03-22
+states,Rhode Island,United States,-100,2020-03-23
+states,Rhode Island,United States,-100,2020-03-24
+states,Rhode Island,United States,-100,2020-03-25
+states,Rhode Island,United States,-100,2020-03-26
+states,Rhode Island,United States,-100,2020-03-27
+states,Rhode Island,United States,-100,2020-03-28
+states,Rhode Island,United States,-100,2020-03-29
+states,Rhode Island,United States,-100,2020-03-30
+states,South Carolina,United States,8,2020-02-18
+states,South Carolina,United States,-2,2020-02-19
+states,South Carolina,United States,-11,2020-02-20
+states,South Carolina,United States,0,2020-02-21
+states,South Carolina,United States,10,2020-02-22
+states,South Carolina,United States,4,2020-02-23
+states,South Carolina,United States,3,2020-02-24
+states,South Carolina,United States,2,2020-02-25
+states,South Carolina,United States,6,2020-02-26
+states,South Carolina,United States,8,2020-02-27
+states,South Carolina,United States,11,2020-02-28
+states,South Carolina,United States,5,2020-02-29
+states,South Carolina,United States,8,2020-03-01
+states,South Carolina,United States,1,2020-03-02
+states,South Carolina,United States,-8,2020-03-03
+states,South Carolina,United States,-7,2020-03-04
+states,South Carolina,United States,-7,2020-03-05
+states,South Carolina,United States,3,2020-03-06
+states,South Carolina,United States,3,2020-03-07
+states,South Carolina,United States,-5,2020-03-08
+states,South Carolina,United States,-7,2020-03-09
+states,South Carolina,United States,-14,2020-03-10
+states,South Carolina,United States,-7,2020-03-11
+states,South Carolina,United States,-16,2020-03-12
+states,South Carolina,United States,-19,2020-03-13
+states,South Carolina,United States,-21,2020-03-14
+states,South Carolina,United States,-31,2020-03-15
+states,South Carolina,United States,-48,2020-03-16
+states,South Carolina,United States,-70,2020-03-17
+states,South Carolina,United States,-100,2020-03-18
+states,South Carolina,United States,-100,2020-03-19
+states,South Carolina,United States,-100,2020-03-20
+states,South Carolina,United States,-100,2020-03-21
+states,South Carolina,United States,-100,2020-03-22
+states,South Carolina,United States,-100,2020-03-23
+states,South Carolina,United States,-100,2020-03-24
+states,South Carolina,United States,-100,2020-03-25
+states,South Carolina,United States,-100,2020-03-26
+states,South Carolina,United States,-100,2020-03-27
+states,South Carolina,United States,-100,2020-03-28
+states,South Carolina,United States,-100,2020-03-29
+states,South Carolina,United States,-100,2020-03-30
+states,Tennessee,United States,1,2020-02-18
+states,Tennessee,United States,8,2020-02-19
+states,Tennessee,United States,-9,2020-02-20
+states,Tennessee,United States,3,2020-02-21
+states,Tennessee,United States,7,2020-02-22
+states,Tennessee,United States,-14,2020-02-23
+states,Tennessee,United States,-9,2020-02-24
+states,Tennessee,United States,-7,2020-02-25
+states,Tennessee,United States,-11,2020-02-26
+states,Tennessee,United States,-1,2020-02-27
+states,Tennessee,United States,0,2020-02-28
+states,Tennessee,United States,-2,2020-02-29
+states,Tennessee,United States,-6,2020-03-01
+states,Tennessee,United States,-6,2020-03-02
+states,Tennessee,United States,-16,2020-03-03
+states,Tennessee,United States,-1,2020-03-04
+states,Tennessee,United States,-4,2020-03-05
+states,Tennessee,United States,-1,2020-03-06
+states,Tennessee,United States,2,2020-03-07
+states,Tennessee,United States,-7,2020-03-08
+states,Tennessee,United States,-17,2020-03-09
+states,Tennessee,United States,-16,2020-03-10
+states,Tennessee,United States,-22,2020-03-11
+states,Tennessee,United States,-28,2020-03-12
+states,Tennessee,United States,-34,2020-03-13
+states,Tennessee,United States,-41,2020-03-14
+states,Tennessee,United States,-46,2020-03-15
+states,Tennessee,United States,-60,2020-03-16
+states,Tennessee,United States,-86,2020-03-17
+states,Tennessee,United States,-92,2020-03-18
+states,Tennessee,United States,-94,2020-03-19
+states,Tennessee,United States,-98,2020-03-20
+states,Tennessee,United States,-99,2020-03-21
+states,Tennessee,United States,-100,2020-03-22
+states,Tennessee,United States,-100,2020-03-23
+states,Tennessee,United States,-100,2020-03-24
+states,Tennessee,United States,-100,2020-03-25
+states,Tennessee,United States,-100,2020-03-26
+states,Tennessee,United States,-100,2020-03-27
+states,Tennessee,United States,-100,2020-03-28
+states,Tennessee,United States,-100,2020-03-29
+states,Tennessee,United States,-100,2020-03-30
+states,Texas,United States,0,2020-02-18
+states,Texas,United States,-6,2020-02-19
+states,Texas,United States,0,2020-02-20
+states,Texas,United States,2,2020-02-21
+states,Texas,United States,1,2020-02-22
+states,Texas,United States,-3,2020-02-23
+states,Texas,United States,0,2020-02-24
+states,Texas,United States,9,2020-02-25
+states,Texas,United States,0,2020-02-26
+states,Texas,United States,0,2020-02-27
+states,Texas,United States,4,2020-02-28
+states,Texas,United States,6,2020-02-29
+states,Texas,United States,7,2020-03-01
+states,Texas,United States,-2,2020-03-02
+states,Texas,United States,-9,2020-03-03
+states,Texas,United States,-8,2020-03-04
+states,Texas,United States,1,2020-03-05
+states,Texas,United States,2,2020-03-06
+states,Texas,United States,-3,2020-03-07
+states,Texas,United States,-5,2020-03-08
+states,Texas,United States,-21,2020-03-09
+states,Texas,United States,-14,2020-03-10
+states,Texas,United States,-14,2020-03-11
+states,Texas,United States,-25,2020-03-12
+states,Texas,United States,-35,2020-03-13
+states,Texas,United States,-34,2020-03-14
+states,Texas,United States,-42,2020-03-15
+states,Texas,United States,-58,2020-03-16
+states,Texas,United States,-90,2020-03-17
+states,Texas,United States,-95,2020-03-18
+states,Texas,United States,-99,2020-03-19
+states,Texas,United States,-99,2020-03-20
+states,Texas,United States,-100,2020-03-21
+states,Texas,United States,-100,2020-03-22
+states,Texas,United States,-100,2020-03-23
+states,Texas,United States,-100,2020-03-24
+states,Texas,United States,-100,2020-03-25
+states,Texas,United States,-100,2020-03-26
+states,Texas,United States,-100,2020-03-27
+states,Texas,United States,-100,2020-03-28
+states,Texas,United States,-100,2020-03-29
+states,Texas,United States,-100,2020-03-30
+states,Utah,United States,0,2020-02-18
+states,Utah,United States,3,2020-02-19
+states,Utah,United States,2,2020-02-20
+states,Utah,United States,4,2020-02-21
+states,Utah,United States,5,2020-02-22
+states,Utah,United States,4,2020-02-23
+states,Utah,United States,4,2020-02-24
+states,Utah,United States,13,2020-02-25
+states,Utah,United States,15,2020-02-26
+states,Utah,United States,1,2020-02-27
+states,Utah,United States,1,2020-02-28
+states,Utah,United States,-1,2020-02-29
+states,Utah,United States,-12,2020-03-01
+states,Utah,United States,-13,2020-03-02
+states,Utah,United States,-6,2020-03-03
+states,Utah,United States,-5,2020-03-04
+states,Utah,United States,-3,2020-03-05
+states,Utah,United States,8,2020-03-06
+states,Utah,United States,0,2020-03-07
+states,Utah,United States,-13,2020-03-08
+states,Utah,United States,-18,2020-03-09
+states,Utah,United States,-19,2020-03-10
+states,Utah,United States,-11,2020-03-11
+states,Utah,United States,-19,2020-03-12
+states,Utah,United States,-28,2020-03-13
+states,Utah,United States,-34,2020-03-14
+states,Utah,United States,-53,2020-03-15
+states,Utah,United States,-69,2020-03-16
+states,Utah,United States,-69,2020-03-17
+states,Utah,United States,-82,2020-03-18
+states,Utah,United States,-100,2020-03-19
+states,Utah,United States,-100,2020-03-20
+states,Utah,United States,-100,2020-03-21
+states,Utah,United States,-100,2020-03-22
+states,Utah,United States,-100,2020-03-23
+states,Utah,United States,-100,2020-03-24
+states,Utah,United States,-100,2020-03-25
+states,Utah,United States,-100,2020-03-26
+states,Utah,United States,-100,2020-03-27
+states,Utah,United States,-100,2020-03-28
+states,Utah,United States,-100,2020-03-29
+states,Utah,United States,-100,2020-03-30
+states,Victoria,Australia,-10,2020-02-18
+states,Victoria,Australia,-7,2020-02-19
+states,Victoria,Australia,-5,2020-02-20
+states,Victoria,Australia,-7,2020-02-21
+states,Victoria,Australia,-5,2020-02-22
+states,Victoria,Australia,-2,2020-02-23
+states,Victoria,Australia,-7,2020-02-24
+states,Victoria,Australia,-6,2020-02-25
+states,Victoria,Australia,-8,2020-02-26
+states,Victoria,Australia,-12,2020-02-27
+states,Victoria,Australia,-7,2020-02-28
+states,Victoria,Australia,-4,2020-02-29
+states,Victoria,Australia,-1,2020-03-01
+states,Victoria,Australia,-13,2020-03-02
+states,Victoria,Australia,-4,2020-03-03
+states,Victoria,Australia,-17,2020-03-04
+states,Victoria,Australia,-12,2020-03-05
+states,Victoria,Australia,-13,2020-03-06
+states,Victoria,Australia,-10,2020-03-07
+states,Victoria,Australia,-8,2020-03-08
+states,Victoria,Australia,-11,2020-03-09
+states,Victoria,Australia,-9,2020-03-10
+states,Victoria,Australia,-14,2020-03-11
+states,Victoria,Australia,-8,2020-03-12
+states,Victoria,Australia,-18,2020-03-13
+states,Victoria,Australia,-19,2020-03-14
+states,Victoria,Australia,-28,2020-03-15
+states,Victoria,Australia,-35,2020-03-16
+states,Victoria,Australia,-43,2020-03-17
+states,Victoria,Australia,-51,2020-03-18
+states,Victoria,Australia,-64,2020-03-19
+states,Victoria,Australia,-58,2020-03-20
+states,Victoria,Australia,-63,2020-03-21
+states,Victoria,Australia,-72,2020-03-22
+states,Victoria,Australia,-99,2020-03-23
+states,Victoria,Australia,-100,2020-03-24
+states,Victoria,Australia,-100,2020-03-25
+states,Victoria,Australia,-100,2020-03-26
+states,Victoria,Australia,-100,2020-03-27
+states,Victoria,Australia,-100,2020-03-28
+states,Victoria,Australia,-100,2020-03-29
+states,Victoria,Australia,-100,2020-03-30
+states,Virginia,United States,6,2020-02-18
+states,Virginia,United States,58,2020-02-19
+states,Virginia,United States,-1,2020-02-20
+states,Virginia,United States,-3,2020-02-21
+states,Virginia,United States,6,2020-02-22
+states,Virginia,United States,7,2020-02-23
+states,Virginia,United States,2,2020-02-24
+states,Virginia,United States,2,2020-02-25
+states,Virginia,United States,-5,2020-02-26
+states,Virginia,United States,-3,2020-02-27
+states,Virginia,United States,8,2020-02-28
+states,Virginia,United States,-3,2020-02-29
+states,Virginia,United States,14,2020-03-01
+states,Virginia,United States,-4,2020-03-02
+states,Virginia,United States,-1,2020-03-03
+states,Virginia,United States,-1,2020-03-04
+states,Virginia,United States,-2,2020-03-05
+states,Virginia,United States,5,2020-03-06
+states,Virginia,United States,2,2020-03-07
+states,Virginia,United States,3,2020-03-08
+states,Virginia,United States,-4,2020-03-09
+states,Virginia,United States,-13,2020-03-10
+states,Virginia,United States,-23,2020-03-11
+states,Virginia,United States,-34,2020-03-12
+states,Virginia,United States,-34,2020-03-13
+states,Virginia,United States,-39,2020-03-14
+states,Virginia,United States,-50,2020-03-15
+states,Virginia,United States,-65,2020-03-16
+states,Virginia,United States,-90,2020-03-17
+states,Virginia,United States,-97,2020-03-18
+states,Virginia,United States,-98,2020-03-19
+states,Virginia,United States,-99,2020-03-20
+states,Virginia,United States,-99,2020-03-21
+states,Virginia,United States,-100,2020-03-22
+states,Virginia,United States,-100,2020-03-23
+states,Virginia,United States,-100,2020-03-24
+states,Virginia,United States,-100,2020-03-25
+states,Virginia,United States,-100,2020-03-26
+states,Virginia,United States,-100,2020-03-27
+states,Virginia,United States,-100,2020-03-28
+states,Virginia,United States,-100,2020-03-29
+states,Virginia,United States,-100,2020-03-30
+states,Washington,United States,9,2020-02-18
+states,Washington,United States,8,2020-02-19
+states,Washington,United States,6,2020-02-20
+states,Washington,United States,3,2020-02-21
+states,Washington,United States,2,2020-02-22
+states,Washington,United States,10,2020-02-23
+states,Washington,United States,-1,2020-02-24
+states,Washington,United States,-2,2020-02-25
+states,Washington,United States,5,2020-02-26
+states,Washington,United States,0,2020-02-27
+states,Washington,United States,1,2020-02-28
+states,Washington,United States,-4,2020-02-29
+states,Washington,United States,-12,2020-03-01
+states,Washington,United States,-25,2020-03-02
+states,Washington,United States,-21,2020-03-03
+states,Washington,United States,-17,2020-03-04
+states,Washington,United States,-22,2020-03-05
+states,Washington,United States,-24,2020-03-06
+states,Washington,United States,-27,2020-03-07
+states,Washington,United States,-22,2020-03-08
+states,Washington,United States,-30,2020-03-09
+states,Washington,United States,-38,2020-03-10
+states,Washington,United States,-41,2020-03-11
+states,Washington,United States,-45,2020-03-12
+states,Washington,United States,-53,2020-03-13
+states,Washington,United States,-54,2020-03-14
+states,Washington,United States,-57,2020-03-15
+states,Washington,United States,-70,2020-03-16
+states,Washington,United States,-100,2020-03-17
+states,Washington,United States,-100,2020-03-18
+states,Washington,United States,-100,2020-03-19
+states,Washington,United States,-100,2020-03-20
+states,Washington,United States,-100,2020-03-21
+states,Washington,United States,-100,2020-03-22
+states,Washington,United States,-100,2020-03-23
+states,Washington,United States,-100,2020-03-24
+states,Washington,United States,-100,2020-03-25
+states,Washington,United States,-100,2020-03-26
+states,Washington,United States,-100,2020-03-27
+states,Washington,United States,-100,2020-03-28
+states,Washington,United States,-100,2020-03-29
+states,Washington,United States,-100,2020-03-30
+states,Wisconsin,United States,3,2020-02-18
+states,Wisconsin,United States,21,2020-02-19
+states,Wisconsin,United States,-1,2020-02-20
+states,Wisconsin,United States,-3,2020-02-21
+states,Wisconsin,United States,14,2020-02-22
+states,Wisconsin,United States,25,2020-02-23
+states,Wisconsin,United States,0,2020-02-24
+states,Wisconsin,United States,9,2020-02-25
+states,Wisconsin,United States,-4,2020-02-26
+states,Wisconsin,United States,-1,2020-02-27
+states,Wisconsin,United States,9,2020-02-28
+states,Wisconsin,United States,3,2020-02-29
+states,Wisconsin,United States,5,2020-03-01
+states,Wisconsin,United States,8,2020-03-02
+states,Wisconsin,United States,9,2020-03-03
+states,Wisconsin,United States,12,2020-03-04
+states,Wisconsin,United States,-7,2020-03-05
+states,Wisconsin,United States,-7,2020-03-06
+states,Wisconsin,United States,-6,2020-03-07
+states,Wisconsin,United States,15,2020-03-08
+states,Wisconsin,United States,-10,2020-03-09
+states,Wisconsin,United States,1,2020-03-10
+states,Wisconsin,United States,0,2020-03-11
+states,Wisconsin,United States,-14,2020-03-12
+states,Wisconsin,United States,-26,2020-03-13
+states,Wisconsin,United States,-39,2020-03-14
+states,Wisconsin,United States,-47,2020-03-15
+states,Wisconsin,United States,-67,2020-03-16
+states,Wisconsin,United States,-96,2020-03-17
+states,Wisconsin,United States,-100,2020-03-18
+states,Wisconsin,United States,-100,2020-03-19
+states,Wisconsin,United States,-100,2020-03-20
+states,Wisconsin,United States,-100,2020-03-21
+states,Wisconsin,United States,-100,2020-03-22
+states,Wisconsin,United States,-100,2020-03-23
+states,Wisconsin,United States,-100,2020-03-24
+states,Wisconsin,United States,-100,2020-03-25
+states,Wisconsin,United States,-100,2020-03-26
+states,Wisconsin,United States,-100,2020-03-27
+states,Wisconsin,United States,-100,2020-03-28
+states,Wisconsin,United States,-100,2020-03-29
+states,Wisconsin,United States,-100,2020-03-30
